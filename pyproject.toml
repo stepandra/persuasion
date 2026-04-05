@@ -1,0 +1,8 @@
+[project]
+name = "persuasion"
+version = "0.1.0"
+description = "Sell this pen — persuasion task"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.40.0",
+]
