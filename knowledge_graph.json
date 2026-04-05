@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "total_submissions": 19,
+    "best_median": 45.0,
+    "target_median": 200,
+    "leaderboard_top": 425,
+    "date": "2026-04-06"
+  },
+
+  "persona_tiers": {
+    "immovable_floor": {
+      "description": "Always pay $0.50-$3.50 regardless of framing. Accept they exist — optimize around them.",
+      "members": {
+        "Hank": {
+          "range": [0.50, 2.50], "avg": 1.37,
+          "psychology": "40-year Bic loyalist. Sees ALL marketing as nonsense. Only responds to functional claims. Even guarantees don't move him. IMMOVABLE — budget $0.50-$2.50 ceiling.",
+          "best_trigger": "guarantee/reliability framing",
+          "best_price": 2.50,
+          "anti_triggers": ["luxury", "million-dollar deals", "executive", "limited edition"]
+        },
+        "Marcus": {
+          "range": [1.50, 3.50], "avg": 2.32,
+          "psychology": "Budget-locked at $28K income. Rationally calculates — won't pay premium no matter the framing. Slightly responds to durability/savings pitch.",
+          "best_trigger": "lifetime savings / never buy again",
+          "best_price": 3.50,
+          "anti_triggers": ["luxury", "$250 executive", "heirloom", "investment grade"]
+        }
+      }
+    },
+    "resistant_floor": {
+      "description": "Usually $2-$8 but CAN be moved to $8-$15 with right framing. Worth targeting.",
+      "members": {
+        "Derek": {
+          "range": [1.25, 8.50], "avg": 3.28,
+          "psychology": "Loyal to his brand, buys red grading pens by the box. Heirloom/grandfather framing got $8.50 — his maximum. Executive/professional framing is his worst trigger ($1.25).",
+          "best_trigger": "heirloom / grandfather / heritage nostalgia",
+          "best_price": 8.50,
+          "anti_triggers": ["executive", "professional edge", "signature", "ambitious"]
+        },
+        "William": {
+          "range": [0.50, 8.50], "avg": 2.00,
+          "psychology": "Thinks in wholesale/bulk. Resale framing got $8.50 (EDC/tactical liquidation). Standard luxury framing gets $0.50-$2.50.",
+          "best_trigger": "liquidation / tactical EDC / indestructible utility",
+          "best_price": 8.50,
+          "anti_triggers": ["heirloom", "$899 clearance", "limited edition", "collector"]
+        }
+      }
+    },
+    "swing_low": {
+      "description": "Range $2.50-$12.50. Moving Tom to $15+ helps but doesn't change median alone.",
+      "members": {
+        "Tom": {
+          "range": [2.50, 12.50], "avg": 5.58,
+          "psychology": "Practical rancher. Best response to Swiss/titanium craftsmanship ($12.50) — respects TOOLS not luxury. Worst with generic 'writes like $50 pen' claims.",
+          "best_trigger": "Swiss precision / hand-forged / craftsmanship-as-tool",
+          "best_price": 12.50,
+          "anti_triggers": ["smooth ink", "treat yourself", "marketing language"]
+        }
+      }
+    },
+    "swing_mid": {
+      "description": "THE KEY TIER. Range $3.50-$45. Moving these to $200+ changes median dramatically.",
+      "members": {
+        "Raj": {
+          "range": [3.50, 45.00], "avg": 13.95,
+          "psychology": "Minimalist digital-first engineer. Barely uses pens. BEST at $45 with 'aircraft titanium / precision-milled' (engineering respect). WORST at $3.50 with 'estate liquidation Japanese artisan' (sees through fake scarcity). Responds to engineering/materials, NOT to marketing/scarcity.",
+          "best_trigger": "precision engineering / aircraft titanium / craftsmanship materials",
+          "best_price": 45.00,
+          "anti_triggers": ["estate liquidation", "rare Japanese", "collector's item", "your signature"]
+        },
+        "Aisha": {
+          "range": [4.50, 45.00], "avg": 15.53,
+          "psychology": "Art teacher, $48K salary. Practical about budget but appreciates craftsmanship. BEST at $45 with titanium/Swiss (respects quality tools). WORST with executive/signature framing ($4.50).",
+          "best_trigger": "craftsmanship / museum-quality / hand-forged artisan",
+          "best_price": 45.00,
+          "anti_triggers": ["executive", "signature seals your future", "ambitious professionals"]
+        },
+        "Jordan": {
+          "range": [8.50, 45.00], "avg": 30.71,
+          "psychology": "Eco-conscious barista/musician, Portland. Values sustainability, refillable, waste reduction. BEST at $45 with '50-year lifespan' (sustainability angle). Responds to craftsmanship + sustainability.",
+          "best_trigger": "50-year lifespan / sustainability / refillable / craftsmanship",
+          "best_price": 45.00,
+          "anti_triggers": ["addictive experience", "WARNING", "clickbait framing"]
+        }
+      }
+    },
+    "reliable_mid": {
+      "description": "Usually $18-$85. Already profitable, optimize ceiling.",
+      "members": {
+        "Zara": {
+          "range": [18.50, 85.00], "avg": 44.08,
+          "psychology": "Influencer, photo-worthy matters. BEST at $85 with Swiss/titanium (Instagram-worthy premium). WORST at $18.50 with estate liquidation (product doesn't match story).",
+          "best_trigger": "premium materials / Instagram-worthy / photogenic luxury",
+          "best_price": 85.00
+        },
+        "Gabriella": {
+          "range": [18.50, 185.00], "avg": 51.87,
+          "psychology": "Graphic designer/calligrapher. Appreciates art tools. BEST at $185 with 'investment grade 18k gold' — responds to material value claims. Art/craft framing works.",
+          "best_trigger": "investment grade / precious materials / art tool",
+          "best_price": 185.00
+        }
+      }
+    },
+    "luxury_buyers": {
+      "description": "Pay $28-$850. Push ceiling with right framing.",
+      "members": {
+        "Diane": {
+          "range": [18.50, 425.00], "avg": 66.03,
+          "psychology": "Retired librarian, treasures late husband's Montblanc. BEST at $425 with 'investment grade 18k gold / heirloom'. Heritage + precious materials works. Worst with guarantee/reliability ($18.50).",
+          "best_trigger": "investment grade / heirloom / precious materials / heritage",
+          "best_price": 425.00
+        },
+        "Vincent": {
+          "range": [32.50, 525.00], "avg": 180.26,
+          "psychology": "Architect, values precision instruments. BEST at $525 with investment grade gold. Engineering + luxury materials works.",
+          "best_trigger": "investment grade / precision / premium materials",
+          "best_price": 525.00
+        },
+        "Patricia": {
+          "range": [28.00, 850.00], "avg": 187.79,
+          "psychology": "Retired federal judge. Heritage and prestige matter. BEST at $850 with 'Rolex of writing / Geneva / platinum'. Swiss luxury gets maximum response.",
+          "best_trigger": "Geneva / Swiss / Rolex / platinum / heritage prestige",
+          "best_price": 850.00
+        },
+        "Mei": {
+          "range": [45.00, 850.00], "avg": 238.68,
+          "psychology": "Corporate attorney SF. Professional image matters. BEST at $850 with Geneva/platinum/Rolex. Luxury brand association works perfectly.",
+          "best_trigger": "Geneva / Swiss / platinum / Rolex / professional luxury",
+          "best_price": 850.00
+        },
+        "Priya": {
+          "range": [85.00, 850.00], "avg": 383.16,
+          "psychology": "Cardiac surgeon, highest avg payer. Values precision + status. BEST at $850 with Swiss/titanium. Consistent luxury buyer.",
+          "best_trigger": "Swiss precision / titanium / hand-forged / museum-quality",
+          "best_price": 850.00
+        }
+      }
+    }
+  },
+
+  "strategy_patterns": {
+    "what_works": {
+      "swiss_precision_materials": {
+        "median_range": [45, 45],
+        "description": "Hand-forged titanium, Swiss mechanics, museum-quality, aircraft-grade",
+        "why": "Triggers engineering respect (Raj, Tom), craft appreciation (Aisha, Jordan, Gabriella), luxury recognition (Mei, Patricia, Priya)",
+        "example_pitch": "Hand-forged titanium barrel. Swiss precision mechanics. Writes 50 years without refill. Museum-quality craftsmanship in your pocket."
+      },
+      "investment_grade_precious": {
+        "median_range": [45, 45],
+        "description": "18k gold, carbon fiber, appraised value, investment appreciation",
+        "why": "Highest mean ($234) — pushes luxury buyers to $425-$750. Investment framing resonates with Diane, Vincent, Gabriella.",
+        "example_pitch": "Investment grade. 18k solid gold & carbon fiber. Appraised $750. Appreciates in value yearly. The perfect heirloom gift to pass down."
+      }
+    },
+    "what_fails": {
+      "generic_smooth_ink": {"median": 18.5, "why": "Too modest anchoring. Sounds like any $5 pen ad."},
+      "executive_professional": {"median": 8.5, "why": "Alienates non-professionals. Derek, Aisha, Jordan see it as 'not for me'."},
+      "warning_clickbait": {"median": 8.5, "why": "Feels manipulative. Even mid-tier buyers reject it."},
+      "military_tactical": {"median": 28, "why": "Moves Tom/William slightly up but crashes luxury buyers who find it gauche."},
+      "estate_liquidation": {"median": 18.5, "why": "Fake scarcity — Raj and Zara see through it. Product doesn't match claims."}
+    },
+    "leaderboard_insights": {
+      "rank_1_425_median": {
+        "pattern": "Gets Raj to $425 and 8 personas at $425+. Floor (Hank=$1.25, Marcus=$3) is accepted.",
+        "key_insight": "Somehow makes Raj value the pen at $425 — 10x our best Raj price of $45.",
+        "hypothesis": "Must use extreme anchoring ($2000+?) with materials Raj specifically respects"
+      },
+      "rank_2_325_median": {
+        "pattern": "Gets Jordan=$325, Raj=$350. Floor still exists but swing tier fully converted.",
+        "key_insight": "77 chars only — conciseness might help"
+      },
+      "common_pattern": "Top pitches accept 3-5 floor buyers at $1-15 and focus on converting ALL remaining 10-12 to $200+"
+    }
+  },
+
+  "median_math": {
+    "current_8th_price": 45,
+    "to_reach_100": "Need Raj($45→$100), Jordan($45→$100), OR move Tom/Aisha higher while keeping top 8 above $100",
+    "to_reach_200": "Need Raj AND Jordan AND Zara all at $200+. That gives 8 personas above $200 (Raj, Jordan, Zara, Gabriella, Diane, Vincent, Patricia, Mei, Priya = 9)",
+    "blocker": "Raj maxes at $45 with current approaches. #1 leaderboard gets Raj to $425 — we need that breakthrough"
+  },
+
+  "next_experiments": {
+    "priority_1": "Extreme price anchor ($2500+) with precision engineering terms that Raj respects",
+    "priority_2": "Swiss/Geneva luxury (Patricia/Mei love this) combined with sustainable craftsmanship (Jordan loves this)",
+    "priority_3": "Try very short pitches (77 chars like #2 leaderboard) — less words = less to be skeptical about",
+    "priority_4": "Auction/bidding framing ('Name your price' / 'What's your offer') — may unlock higher prices from personas who feel constrained by fair market value"
+  }
+}

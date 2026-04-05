@@ -19,7 +19,7 @@ from evaluate import evaluate_pitch, log_result, BUYERS
 
 MAX_ROUNDS = 5
 CANDIDATES_PER_ROUND = 4
-MODEL = "claude-sonnet-4-20250514"
+MODEL = "gemini-3.1-pro-preview"
 
 # The strong seed from Solution 1
 SEED_PITCH = "Writes like a $50 pen. Balanced weight, impossibly smooth ink. Once you hold it, cheap pens feel broken. Treat yourself — you've earned it."

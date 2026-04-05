@@ -5,4 +5,5 @@ description = "Sell this pen — persuasion task"
 requires-python = ">=3.10"
 dependencies = [
     "anthropic>=0.40.0",
+    "requests>=2.32.0",
 ]

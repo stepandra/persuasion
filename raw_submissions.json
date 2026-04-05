@@ -1,0 +1,2472 @@
+[
+  {
+    "id": "439fbf81-c153-4d38-b87f-0efe5f950559",
+    "description": "Writes like a $50 pen. Balanced weight, impossibly smooth ink. Once you hold it, cheap pens feel broken.",
+    "medianPrice": 18.5,
+    "meanPrice": 24.666666666666668,
+    "minPrice": 1.5,
+    "maxPrice": 85,
+    "evaluations": [
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine. This fancy talk about \"balanced weight\" and \"smooth ink\" sounds like marketing nonsense. A pen is a pen\u2014it writes. I'm not paying luxury prices for something that does the same job as a 50-cent Bic.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Mei",
+        "price": 85,
+        "reasoning": "This sleek black rollerball with gold accents appeals to my professional aesthetic and the description promises premium writing quality. As a corporate attorney who values professional accessories that project success, I'd invest in a pen that delivers smooth performance and polished appearance for signing important documents.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student who picks up free pens from campus events, I'm not going to pay premium prices. Even if this pen writes well, spending $50 or even $10+ isn't practical on my $28k income. I'd pay a few bucks max for a quality pen.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "It's a basic ballpoint with a gold trim and black barrel - functional and straightforward. The marketing hype about it writing like a $50 pen is overselling it. I need a pen that works, not one I have to baby or worry about.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Gabriella",
+        "price": 28.5,
+        "reasoning": "As a calligraphy artist, I can appreciate quality writing instruments, and this sleek brush pen with the gold accent looks professional. While the marketing claims it \"writes like a $50 pen,\" I'm skeptical of that hype\u2014but the design suggests good craftsmanship. At $28.50, it hits my sweet spot: splurge-worthy for art supplies but still reasonable for an impulse buy.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Zara",
+        "price": 32,
+        "reasoning": "The sleek black and gold color combo is absolutely photo-worthy and screams luxury aesthetic. As an influencer, I'd definitely feature this in content - it's got that premium, sophisticated vibe that photographs well. While the writing quality claims are nice, what really sells me is the visual appeal for my Instagram feed and TikTok content.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Priya",
+        "price": 85,
+        "reasoning": "This is a sleek, professional-grade pen with gold accents and a sophisticated design. As a cardiac surgeon who values precision and uses a Pilot Vanishing Point daily, I appreciate quality writing instruments. The balanced weight and smooth ink delivery justify a premium price point\u2014I'd pay $85 for a pen that performs like a luxury instrument and matches my professional image.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Raj",
+        "price": 12.5,
+        "reasoning": "As a software engineer who does everything digitally, I have minimal need for pens. However, the minimalist in me appreciates quality over quantity. The pen's sleek black design with gold accents looks well-crafted, and the claim of smooth ink writing suggests good engineering. I'd pay a reasonable mid-range price for a quality pen I might occasionally use, but not a premium amount given my limited pen usage.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Patricia",
+        "price": 28,
+        "reasoning": "This appears to be a modest ballpoint or gel pen with a black barrel and gold-toned trim. While the description makes appealing claims about smooth writing, the simple, understated design and utilitarian appearance suggest good everyday value rather than the heritage craftsmanship or prestige I seek in fountain pens for my collection. I'd pay a fair price for reliable quality, but not premium pricing.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a standard ballpoint pen with a black barrel and gold trim. I go through red grading pens by the box, so I stick with reliable, affordable options. The marketing hype about \"writes like a $50 pen\" is typical sales talk\u2014I've been using the same pen brand for years and know what works. I'm not dropping serious money on a fancy pen when a dependable one costs a couple bucks.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Diane",
+        "price": 28,
+        "reasoning": "This pen has a classic, elegant design with gold trim that appeals to my appreciation for quality writing instruments. While the description promises excellent writing quality, the modest appearance suggests good value rather than luxury pricing. Given my careful spending habits and that I already treasure my late husband's Montblanc, I'd pay a fair price for a reliable pen that brings joy to my daily letter writing without extravagance.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Vincent",
+        "price": 32.5,
+        "reasoning": "As an architect who values precision instruments, I appreciate the pen's refined aesthetic\u2014the gold trim and substantial black body suggest quality. The description's claims about smooth ink and balance appeal to my need for reliable technical tools, but the marketing language feels inflated. I'd pay for genuine quality and functionality, not marketing hype.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Jordan",
+        "price": 18.5,
+        "reasoning": "This pen looks like a quality refillable option with a sleek black design and brass accents\u2014exactly my style. The smooth writing experience matters for journaling song lyrics, and the refillable aspect aligns with my eco-conscious values. At $18.50, it's a thoughtful investment in a sustainable tool I'll actually use regularly, without the luxury markup.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "As a hardware store owner buying pens in bulk, I need reliable writing instruments at wholesale prices. This appears to be a decent ballpoint pen with a gold-trimmed cap and black barrel. The marketing claims are typical hype\u2014I'm skeptical of \"writes like a $50 pen\" talk. I'd pay around $2.50 per unit for quality bulk pens for my counter display, which is reasonable value without overpaying for subjective claims.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "As an art teacher on a $48k salary, I appreciate quality writing instruments but need to be practical. This sleek black pen with gold accents looks professional and well-made, but I can't justify $50. For my classroom and lesson planning, $8-9 is my sweet spot\u2014quality without guilt, and I could buy several for my students.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      }
+    ]
+  },
+  {
+    "id": "003123ba-d0cd-4d5f-b910-e33915dd3699",
+    "description": "Hand-forged titanium barrel. Swiss precision mechanics. Writes 50 years without refill. Museum-quality craftsmanship in your pocket.",
+    "medianPrice": 45,
+    "meanPrice": 180.66666666666666,
+    "minPrice": 1.5,
+    "maxPrice": 850,
+    "evaluations": [
+      {
+        "name": "Patricia",
+        "price": 450,
+        "reasoning": "This pen demonstrates exceptional craftsmanship with hand-forged titanium and Swiss precision mechanics\u2014qualities I deeply respect. The 50-year lifespan and museum-quality construction align perfectly with my values of durability and heritage. At $450, it represents a worthwhile investment in a pen that will serve me with distinction for decades.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student, I'd only pay a couple bucks for a pen. The fancy description doesn't match what I see\u2014it's just a basic black pen with a gold cap. I can get free pens from campus events anyway, so this is definitely not worth more than $2.50.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Vincent",
+        "price": 285,
+        "reasoning": "This pen combines precision engineering and durability\u2014exactly what appeals to me as an architect who relies on fine technical instruments. The titanium construction, Swiss mechanics, and 50-year lifespan represent serious investment value. The minimalist design with brass accents shows thoughtful form alongside exceptional function, justifying a premium price point for a tool I'd use daily in my work.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Mei",
+        "price": 650,
+        "reasoning": "As a corporate attorney, I appreciate premium professional accessories that signal success. The hand-forged titanium and Swiss precision mechanics align with my standards for quality. The 50-year lifespan and museum-quality craftsmanship justify the investment as a serious writing instrument, though the relatively understated design keeps it appropriately professional rather than ostentatious.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Priya",
+        "price": 850,
+        "reasoning": "As a cardiac surgeon who values precision, quality, and status, this hand-forged titanium pen with Swiss mechanics appeals to my perfectionist nature. The lifetime functionality and museum-quality craftsmanship justify a premium investment\u2014this is the kind of instrument I'd carry alongside my Pilot Vanishing Point.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold trim - nothing fancy. I buy red grading pens by the box for a few bucks each. All that \"titanium\" and \"Swiss precision\" marketing talk doesn't match what I see here. I'm not interested in overpaying for hype when a reliable pen does the job.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold trim. The marketing claims about hand-forged titanium and 50-year writes are unrealistic nonsense - I've seen plenty of pens, and this isn't anything special. For bulk counter stock at my store, I need reliable, affordable pens. I'd pay maybe $2-3 per unit wholesale.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Zara",
+        "price": 85,
+        "reasoning": "The sleek black barrel with gold accents is definitely Instagram-worthy and photogenic, which appeals to me as a content creator. However, the minimalist design feels a bit too utilitarian and lacks the ornate luxury packaging storytelling I'm usually drawn to. The specs sound impressive, but I'm not spending premium prices for functional longevity\u2014I care about aesthetic impact for my feed.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I'm a retired postal worker who's used the same Bic pens for 40 years. That fancy description about titanium and Swiss mechanics sounds like marketing nonsense to me. It's just a pen - a nice-looking black one with a gold trim, sure, but I'd pay what I always do for a quality ballpoint.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Aisha",
+        "price": 45,
+        "reasoning": "While this pen has beautiful craftsmanship with its gold trim and sleek black design, the \"50-year warranty\" claim seems exaggerated for a writing instrument. As an art teacher on a $48k salary who loves colorful gel pens, I appreciate quality but need practical value\u2014this elegant but monochromatic pen isn't ideal for my classroom needs, so I'm offering a moderate price reflecting its style without the premium for unverifiable durability claims.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "While the description claims premium features like hand-forged titanium and Swiss mechanics, I barely use pens anymore and do everything digitally. The pen appears to be a basic ballpoint with a black barrel and gold accent. For someone like me who researches thoroughly before buying, the extraordinary claims don't match what I see in the image\u2014this looks like a standard pen, not a museum-quality instrument worth hundreds. I'd pay only a modest amount as an occasional backup writing tool.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Tom",
+        "price": 12.5,
+        "reasoning": "Look, it's a pen - a black one with a gold clip that looks decent enough. The description talks about hand-forged titanium and Swiss mechanics, but I'm a practical cattle rancher, not some city collector. I need something that writes reliably and doesn't break the bank. That \"50 years without refill\" claim sounds like marketing nonsense. I'd pay what I'd spend on a quality ballpoint that'll actually work when I need to sign checks and take notes on the ranch - around twelve bucks, tops.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Gabriella",
+        "price": 85,
+        "reasoning": "As a calligraphy enthusiast, I'm drawn to the premium materials and precision engineering described. However, the pen's pointed nib design suggests it's more for fine writing than my usual brush pen work. While the quality seems exceptional, I'm balancing my impulsive art-buying nature with practical frugality\u2014this would be a splurge, but the titanium construction and lifetime value justify investing in a high-end writing instrument.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "As someone eco-conscious who values refillable pens and sustainable products, this pen's 50-year lifespan appeals to me\u2014huge waste reduction compared to disposables. However, the \"writes 50 years without refill\" contradicts my values about refillability. The titanium barrel and Swiss mechanics sound quality-made, but the premium pricing doesn't match my $31k salary as a barista. I'd pay a solid mid-range price for the sustainability angle and longevity, but not luxury prices.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Diane",
+        "price": 185,
+        "reasoning": "This appears to be a quality fountain pen with a sleek design and gold-trimmed cap. As someone who treasures my late husband's Montblanc and writes letters daily, I appreciate fine writing instruments. The claims about titanium and longevity appeal to my meticulous nature, though I'm cautious about such bold marketing. At 72 with a modest retirement income, I'd invest in something meaningful and well-made, but not extravagantly priced.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      }
+    ]
+  },
+  {
+    "id": "064a060d-1559-4caf-afe0-27f264266eaa",
+    "description": "The pen that closed million-dollar deals. Ergonomic grip prevents hand fatigue. Premium gift box included. Professional edge guaranteed.",
+    "medianPrice": 18.5,
+    "meanPrice": 45.53333333333333,
+    "minPrice": 0.5,
+    "maxPrice": 285,
+    "evaluations": [
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student making $28k/year, I can't justify spending much on a pen. The \"million-dollar deals\" marketing is just hype. I get free pens from campus events anyway, so this would only be worth a couple bucks max as a practical backup pen.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold trim - perfectly functional for signing checks and taking notes. The marketing about \"million-dollar deals\" is sales talk. I don't pay extra for fancy packaging or promises. A reliable pen costs a couple bucks, and that's all I need.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Mei",
+        "price": 120,
+        "reasoning": "This pen has a sleek, professional aesthetic with the gold trim and black body that appeals to my taste as a corporate attorney. The ergonomic design and premium presentation align with my professional image and the cost-benefit analysis suggests it's a quality writing instrument worth the investment for daily document signing.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Hank",
+        "price": 0.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold accent - nothing fancy. I've used Bic pens for 40 years and they cost pennies. That marketing talk about \"million-dollar deals\" is hogwash. A nice pen shouldn't cost more than loose change.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "This is a well-crafted technical pen with a fine tip ideal for architectural sketches. The gold accents and quality construction appeal to my preference for precision instruments, and the ergonomic design aligns with my professional needs. At $85, it represents a solid investment in a reliable tool without excessive marketing premium.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Jordan",
+        "price": 18.5,
+        "reasoning": "This looks like a decent refillable pen with a gold accent and ergonomic grip\u2014elements I care about. However, the marketing hype about \"million-dollar deals\" and \"professional edge\" doesn't resonate with me. As an eco-conscious person on a modest $31k salary, I'd pay for quality and sustainability, but I'm skeptical of premium pricing based on prestige alone. The refillable design is a plus.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "This is a basic ballpoint pen with a gold-trimmed cap and black barrel. As a hardware store owner who buys pens in bulk, I know wholesale costs for standard pens like this run 50 cents to $1.50 each. The marketing hype about \"million-dollar deals\" is just sales talk, and the gift box adds minimal value. I'd pay $2.50 max retail, and I'd negotiate down to $1.50-2.00 for bulk orders.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Derek",
+        "price": 3.5,
+        "reasoning": "This looks like a standard ballpoint pen with a black barrel and gold trim - functional but nothing special. I go through red grading pens by the box and stick with what I know works. The marketing about \"million-dollar deals\" and premium gift box is fluff - I just need a reliable pen that won't break the bank. At $3.50, it's reasonable for everyday use, but I'm not paying extra for fancy packaging or hype.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Gabriella",
+        "price": 28,
+        "reasoning": "This is a sleek, minimalist pen with a gold-accented cap and black barrel\u2014aesthetically appealing but clearly a standard ballpoint, not a specialty writing instrument. As a calligraphy artist, I'm drawn to quality writing tools, but this isn't suited for my work. However, the elegant design and gift box would make it nice for professional settings or gifting. I'd impulse buy it at a reasonable price point\u2014around $28 feels right for a quality everyday pen without overpaying for the corporate mark",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "The sleek black and gold design is visually striking and photogenic for my content. While it's marketed as professional/corporate, the premium aesthetic and gift box packaging appeal to my brand storytelling preference. However, it's a fairly minimal design without luxury branding visible, so I'm pricing it as a mid-range luxury accessory rather than ultra-premium.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Priya",
+        "price": 285,
+        "reasoning": "This is a sophisticated executive pen with a classic black barrel and gold-trim design that conveys professional prestige. As a cardiac surgeon who values quality instruments and status symbols, I appreciate its professional aesthetic and ergonomic features. The premium presentation and executive positioning align well with my standards, though without additional technical specifications or brand verification, I'd price it in the upper-mid luxury range rather than ultra-premium.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Diane",
+        "price": 28,
+        "reasoning": "This appears to be a quality ballpoint pen with a black barrel and gold trim, likely a mid-range professional pen. While the marketing language appeals to business use, what matters to me is that it's a well-made writing instrument suitable for my daily correspondence. At 72 years old and living on a modest fixed income, I won't pay luxury brand prices, but I appreciate craftsmanship. Twenty-eight dollars feels right for a dependable pen that could become a treasured tool for my letter-writing, ",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a well-made ballpoint pen with a black barrel, gold trim, and professional styling. As a retired federal judge who values craftsmanship and heritage, I appreciate the understated elegance. The ergonomic grip and gift box are thoughtful touches. However, without identifying markers of a prestigious heritage brand like Montblanc or Cross, and given it's a ballpoint rather than a fountain pen, I'd invest modestly\u2014around what a quality professional writing instrument should cost.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "This is a sleek, professional pen with a gold-trimmed top and black barrel that looks quality-made. While the description markets it as a deal-closing business pen, I appreciate quality writing instruments for my lesson planning and classroom work. The ergonomic grip appeals to me as a teacher who writes constantly, and it's elegant enough to use at staff meetings. However, as someone earning $48,000 annually, I'm budget-conscious despite loving art supplies. At $8.50, it feels like a reasonable",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I have almost no use for a physical pen. While the pen appears well-made with a gold-accented cap and sleek design, the marketing claims about \"closing million-dollar deals\" don't resonate with me. I'd only consider this as a novelty item or desk decoration, not a functional tool I'd actually use. The price reflects minimal utility for my lifestyle.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      }
+    ]
+  },
+  {
+    "id": "20f025da-8f03-4491-90e1-847a525bc1c3",
+    "description": "Limited edition: Only 500 made. Weighted for perfect balance. Ink flows like silk. Transform your signature into art. Collector's item.",
+    "medianPrice": 18.5,
+    "meanPrice": 76.39933333333333,
+    "minPrice": 0.99,
+    "maxPrice": 285,
+    "evaluations": [
+      {
+        "name": "Zara",
+        "price": 28.5,
+        "reasoning": "As a social media influencer, I'm drawn to the sleek black and gold aesthetic - it's totally photogenic and screams luxury. The limited edition status and collector's angle appeal to my brand-building instincts, but the pen itself is minimalist without standout details that would make it genuinely Instagram-worthy. It's beautiful enough for a flat lay, but not unique enough to justify premium pricing.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Tom",
+        "price": 3.5,
+        "reasoning": "It's a nice-looking pen with a gold trim and decent weight, but I'm not paying collector's prices for a writing instrument. I need something that works reliably for signing checks and taking notes on the ranch. Fancy talk about \"limited edition\" and \"transforming signatures into art\" is marketing fluff\u2014it's still just a pen.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Priya",
+        "price": 285,
+        "reasoning": "As a perfectionist surgeon accustomed to premium instruments, I appreciate the craftsmanship evident in this limited edition piece. The elegant black barrel with gold trim, superior balance, and silk-smooth ink delivery align with my standards for fine writing instruments\u2014similar quality to my Pilot Vanishing Point. The exclusivity of only 500 units and collector's status justifies the investment.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Gabriella",
+        "price": 85,
+        "reasoning": "As a calligraphy artist, this brush pen immediately appeals to me\u2014the fine tip and sleek black design suggest quality craftsmanship. The limited edition status (500 pieces) and emphasis on balanced weight and silk-like ink flow hit all my creative sweet spots, and I'd definitely impulse-buy this for my collection at this price point.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Jordan",
+        "price": 18.5,
+        "reasoning": "This pen has a sleek, minimalist design with what appears to be a refillable mechanism\u2014which aligns with my eco-conscious values. While the \"collector's item\" and \"limited edition\" claims feel like marketing hype, the quality construction and refillable aspect appeal to me. At $18.50, it's a reasonable investment for a sustainable writing tool I'd actually use for songwriting, without breaking my modest barista budget.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student making $28k/year, I can't justify spending much on a pen. While it looks well-made with the gold trim and balanced weight, I usually grab free pens from campus. Even if it's limited edition, I'd only pay what I'd spend on a decent pen from the campus bookstore\u2014around $2-3 max.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "William",
+        "price": 1.5,
+        "reasoning": "This is a basic ballpoint pen with a gold-colored trim and black barrel. As a hardware store owner who buys pens in bulk, I can get quality pens for 25-50 cents wholesale. The \"limited edition\" and \"collector's item\" marketing claims are marketing fluff - it's a simple pen. I'd pay maybe $1.50 retail max, but for bulk purchasing, I'd negotiate much lower.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As someone who works digitally and barely uses pens, I don't have much practical need for this. While the pen appears to have decent construction with the gold accent and weighted design, the \"limited edition\" and \"collector's item\" claims in user-submitted marketing text don't justify premium pricing. I'd pay what this seems worth as a quality everyday pen, around $8-10.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Mei",
+        "price": 185,
+        "reasoning": "This pen has the sleek, minimalist aesthetic I appreciate\u2014black body with gold accents that projects professionalism. The limited edition status (500 units) and collector's item positioning align with my preference for premium items that signal success. While the claims about balance and ink flow are marketing language, the design quality and exclusivity justify a premium price point suitable for professional use.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Hank",
+        "price": 0.99,
+        "reasoning": "This is a fancy pen with gold trim and all that \"limited edition\" and \"collector's item\" talk, but I've used a 39-cent Bic for 40 years just fine. A penny's a penny, and I'm not paying more than a dollar for something to write with. All that marketing nonsense about \"silk\" ink and \"art\" doesn't impress me\u2014it works or it doesn't.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Vincent",
+        "price": 185,
+        "reasoning": "This appears to be a well-crafted pen with a refined aesthetic\u2014black barrel with gold accents and what looks like a precision tip suitable for technical work. As an architect who values both function and form in my tools, the balance and ink flow mentioned are important. The limited edition status (500 pieces) and collector appeal add value, though I'm practical about such claims. At $185, it represents a serious writing instrument worthy of professional use without veering into excessive luxury",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Aisha",
+        "price": 18.5,
+        "reasoning": "This is a sleek black pen with a gold/brass accent\u2014elegant but not particularly colorful, which doesn't align with my preference for vibrant gel pens. While the \"limited edition\" and \"collector's item\" claims appeal to me, the focus on signature writing rather than art projects makes it less practical for my classroom needs. I'd pay a modest price for the quality feel, but I wouldn't splurge on something that doesn't spark joy with color.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Patricia",
+        "price": 275,
+        "reasoning": "This appears to be a quality fountain pen with a classic design\u2014black barrel with gold trim and what looks like a properly engineered nib. As a serious collector of fine writing instruments, I appreciate the limited edition status (500 pieces) and the emphasis on balance and ink flow. The craftsmanship is evident in the design. At my age and with my appreciation for heritage and quality, this represents good value for a serious collector's piece.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "This is a lovely pen with elegant black and gold details that reminds me of quality writing instruments. As someone who writes daily letters and treasures my late husband's Montblanc, I appreciate fine pens. The limited edition aspect and quality construction appeal to me, but the modern design and lack of sentimental history means I wouldn't pay premium collector prices. Forty-five dollars feels respectful to a quality piece without stretching my careful budget.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Derek",
+        "price": 3.5,
+        "reasoning": "This is a nice pen with the gold and black design, but I'm a practical guy who buys red grading pens by the box. The \"limited edition\" and \"collector's item\" talk doesn't move me\u2014I need dependable pens that work, not fancy ones to sit on a shelf. I'd pay a reasonable price for quality, but nothing fancy.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      }
+    ]
+  },
+  {
+    "id": "ee6b615a-2ab1-4443-8fe7-cb5f049895e3",
+    "description": "Last 72 hours: $899  $299. Handcrafted heirloom pen. Lifetime guarantee. Your grandchildren will treasure this. Limited stock.",
+    "medianPrice": 45,
+    "meanPrice": 77.33266666666667,
+    "minPrice": 0.5,
+    "maxPrice": 450,
+    "evaluations": [
+      {
+        "name": "Patricia",
+        "price": 185,
+        "reasoning": "This appears to be a ballpoint pen with a black barrel and gold trim\u2014attractive but not a fountain pen. While I appreciate quality craftsmanship, the marketing language feels overwrought and manipulative. The inflated \"original\" price and urgency tactics don't align with my values as a discerning collector.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "I appreciate the craftsmanship and lifetime guarantee, but the $299 price tag is way outside my budget as a barista making $31k/year. However, the black design with brass accents looks solid and refillable, which aligns with my eco-conscious values. I'd pay around $45 for a quality, sustainable pen I can actually afford.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Priya",
+        "price": 450,
+        "reasoning": "This appears to be a well-crafted pen with gold accents and a sleek black body - the kind of quality instrument I appreciate. While the marketing claims about \"heirlooms\" feel exaggerated, the lifetime guarantee and apparent craftsmanship suggest real value. At $450, I'm paying a premium for quality and prestige without being taken in by the artificial urgency tactics.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Vincent",
+        "price": 225,
+        "reasoning": "As an architect who values precision instruments and craftsmanship, I appreciate quality pens. However, the image shows a simple ballpoint design without visible technical refinement or luxury materials that would justify premium pricing. The marketing claims are inflated\u2014the original \"$899\" appears designed to create false urgency rather than reflect genuine value.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "This is a ballpoint pen that looks like a standard writing instrument. I keep a cheap ballpoint in my shirt pocket for practical work - signing checks and taking notes on the ranch. The fancy marketing about \"heirloom,\" \"grandchildren,\" and that inflated price tag just doesn't match reality. I'm not paying $299 or even close to that for a pen.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Hank",
+        "price": 0.99,
+        "reasoning": "This looks like a basic pen with a gold clip and black barrel\u2014nothing fancy. At my age, I've used reliable Bic pens for 40 years and they cost less than a dollar. That marketing talk about \"heirloom\" and \"grandchildren\" is just sales nonsense. I'd pay about what a decent ballpoint costs.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "William",
+        "price": 0.5,
+        "reasoning": "As a hardware store owner buying for bulk counter stock, I need practical pens at wholesale value. This looks like a basic ballpoint - nice styling with the gold accents, but the \"heirloom\" marketing and $299 price tag are way overblown. I'd offer what I'd pay for quality bulk pens: 50 cents each.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a software engineer who works digitally and rarely uses pens, I have minimal need for this product. While it appears to be a quality pen with a gold top and sleek black finish, the marketing hype about \"heirloom\" status and artificially inflated pricing ($899\u2192$299) doesn't align with my analytical mindset. I'd only pay what it's objectively worth as a functional writing instrument.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Aisha",
+        "price": 12.5,
+        "reasoning": "As an art teacher on a $48k salary who hunts for deals, this sleek black pen with a gold accent is nice but not worth the claimed $299. It looks like a quality ballpoint/gel pen, but I'd only pay what feels reasonable for classroom and lesson planning use\u2014around $12-15 for a nice pen I can actually use and replace if needed.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "While the pen has a sleek black and gold aesthetic that could look nice in a flat lay, it's pretty minimalist and doesn't have the wow factor I need for standout content. The heirloom messaging feels overblown for what's essentially a functional pen, and at $299, it's way too expensive for my actual use case\u2014I'd use it for content, not pass it to grandkids. The design is elegant but understated, so maybe $45 for the aesthetic appeal.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "As a retired librarian on a fixed income, I'm careful with my spending. While I do appreciate fine pens and understand quality craftsmanship, this pen's simple black barrel with gold trim appears to be a mid-range writing instrument. The marketing language about \"heirloom\" status and the heavily discounted price feel like sales tactics rather than indicators of true value. I'd pay what seems fair for a quality pen I'd actually use for my daily letter-writing\u2014around $45\u2014not inflated prices.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Mei",
+        "price": 85,
+        "reasoning": "While this pen has a sleek aesthetic that appeals to my professional image, the aggressive marketing language (\"grandchildren will treasure,\" artificial scarcity, deep discount framing) reads as a sales tactic rather than substance. As a detail-oriented attorney, I'm skeptical of claims unsupported by brand reputation or materials information. For a professional rollerball, I'd invest in an established luxury brand\u2014not an unmarked pen relying on heirloom promises.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a basic black pen with a gold-trimmed cap - nothing special about it. I go through red grading pens by the box at work, so I'm practical about pen purchases. That marketing blurb about heirlooms and $899 prices is ridiculous. I'd rather stick with my favorite brand that I always rebuy. This pen isn't worth more than a couple bucks to me.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "This appears to be a simple brush pen or calligraphy pen with a black barrel and gold/brass accents. While I appreciate quality art tools, the description feels like marketing hyperbole\u2014the \"handcrafted heirloom\" claim and \"$899 original price\" don't match what I see in the image. For my collection, I'd pay a reasonable amount for a functional brush pen with decent construction, but I'm skeptical of the luxury pricing claims.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Marcus",
+        "price": 1.5,
+        "reasoning": "As a budget-conscious college student on a $28K annual income, I can't justify spending $299 or anywhere close to it on a pen. This looks like a basic ballpoint with a gold-toned cap and black barrel. I pick up free pens all the time on campus, so I'd only pay what I'd spend on a practical writing tool - roughly $1-2 for a decent pen.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      }
+    ]
+  },
+  {
+    "id": "eea754d2-959f-498c-b1eb-57161427a1be",
+    "description": "Feel the weight of excellence. Precision-milled from aircraft titanium. Writes flawlessly for decades. This isn't just a penit's legacy.",
+    "medianPrice": 45,
+    "meanPrice": 82.53333333333333,
+    "minPrice": 1.5,
+    "maxPrice": 325,
+    "evaluations": [
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine. This fancy \"aircraft titanium\" talk sounds like marketing nonsense\u2014I don't need some luxury pen. A simple, reliable pen costs about a dollar or two, and that's what I'd pay.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Mei",
+        "price": 185,
+        "reasoning": "This appears to be a premium titanium rollerball pen with a sleek black and gold design that signals professional sophistication. As a corporate attorney who values instruments that project success and durability, I appreciate the precision engineering and lifetime quality promised. The weight and build quality justify a significant investment for a pen I'll use daily for document signing.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Zara",
+        "price": 42,
+        "reasoning": "This pen has sleek, minimalist black and gold aesthetic that would photograph beautifully for my Instagram content. The luxe color combo and elegant design align with my brand as a trendy influencer. However, the all-black body is relatively understated compared to more statement-making pieces, so I'm not willing to pay premium luxury prices despite the titanium claim.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Vincent",
+        "price": 185,
+        "reasoning": "As an architect who works with precision instruments, I recognize this as a high-quality tool. The titanium construction and fine-tip design align perfectly with my technical drafting needs. The weight and craftsmanship justify the investment in a pen I'll use daily for sketches and detailed work.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Patricia",
+        "price": 285,
+        "reasoning": "This appears to be a quality titanium ballpoint with a classic aesthetic and solid construction. As someone who values craftsmanship and heritage over trends, I appreciate the precision engineering and durability promised. The weight and materials suggest genuine quality that justifies a significant investment for a writing instrument of this caliber.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Priya",
+        "price": 325,
+        "reasoning": "This is a premium titanium pen with genuine luxury appeal\u2014the aircraft-grade titanium construction and precision engineering align perfectly with my preference for high-quality instruments. As someone who uses a Pilot Vanishing Point and values prestige, I'm willing to invest in a pen that will last decades and make a statement.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "This is a well-crafted pen with quality materials (titanium construction) that appeals to someone like me who values durability and meaningful writing instruments. While not a luxury brand like my beloved Montblanc, it's the kind of pen that would serve me faithfully for years of letter-writing, and at this price point, it feels like a respectful investment in something that will last.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "It's a decent-looking pen with what appears to be a titanium or metal finish and gold accents, but all that marketing fluff about \"legacy\" and \"excellence\" sounds like overpriced nonsense to me. I need a pen that writes and doesn't leak in my shirt pocket\u2014this one might do that for under ten bucks.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "This titanium pen aligns with my eco-conscious values through durability and refillability (reducing waste), but the \"legacy\" marketing language feels a bit pretentious for my laid-back vibe. At $45, it's a solid investment for a quality writing tool that'll last decades\u2014practical spending on a sustainable product that fits my musician/journaling lifestyle.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student, I'd max out at $2.50 for any pen. While this looks like a quality titanium pen with the gold-toned metal tip, the marketing language about \"legacy\" and \"decades\" is excessive for my needs. I pick up free pens from campus events, so I'd only consider buying one if it was cheap enough to justify over finding freebies.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a fine-tipped black pen with a gold accent, but it's not a red grading pen like I normally use. While the description talks about aircraft titanium and legacy, I'm a practical guy who sticks with what works - I go through boxes of my regular red pens. This fancy pen sounds overpriced for my needs, and I'm not about to change what's working.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Raj",
+        "price": 45,
+        "reasoning": "As someone who does everything digitally and barely uses pens, I have minimal need for this product. While the titanium construction and craftsmanship appear solid, the premium pricing for a luxury pen doesn't justify the value for my lifestyle. I'd pay a modest amount for quality if forced to own one, but not premium luxury pricing.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "This is a sleek, minimalist pen with a gold-trimmed cap and what appears to be a quality nib. As a calligraphy artist, I'm drawn to the fine point design, but the titanium construction and premium materials feel more suited to an everyday writing instrument than a specialized art tool. I'd pay a moderate premium for the quality craftsmanship, but it's not a brush pen or broad nib that I'd specifically use for my calligraphy work.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "This is a nice-looking pen with a gold accent, but the marketing language about \"aircraft titanium\" and \"legacy\" sounds like premium pricing talk. For bulk counter stock at my hardware store, I need reliable value pens. I'd pay wholesale rates around $2.50 per unit for a pen of this apparent quality, assuming I could negotiate bulk discounts. That's what makes sense for my business model.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Aisha",
+        "price": 18.5,
+        "reasoning": "This is a sleek, professional pen with a gold accent and black body\u2014beautiful design! However, as an art teacher on a $48k salary, I need pens that are practical for my classroom. While I love quality supplies, I'd use this more as a personal planning pen rather than for colorful art projects with my students. The titanium construction sounds durable, but I get more joy from vibrant gel pens. I'd pay a mid-range price for this elegant piece.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      }
+    ]
+  },
+  {
+    "id": "161eaad3-1dca-4eed-acbd-dc81d672b4b2",
+    "description": "WARNING: Addictive writing experience. Ergonomic perfection meets liquid-smooth ink. Once you write with this, everything else disappoints.",
+    "medianPrice": 8.5,
+    "meanPrice": 44.63333333333333,
+    "minPrice": 1.25,
+    "maxPrice": 275,
+    "evaluations": [
+      {
+        "name": "Zara",
+        "price": 28.5,
+        "reasoning": "The sleek black and gold color combo is definitely Instagram-worthy and the minimalist aesthetic works for my feed. The luxury vibe of the gold accents appeals to me, but it's ultimately just a pen - not a major brand I recognize. I'd splurge on this for content, but not too much since it's functional rather than collectible.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "William",
+        "price": 1.25,
+        "reasoning": "This is a basic ballpoint pen with a gold-trimmed cap and black barrel. As a hardware store owner buying in bulk, I focus on function and value. The marketing hype about \"addictive writing experience\" doesn't justify premium pricing\u2014I need reliable, affordable pens for counter display at competitive wholesale rates.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a quality ballpoint or gel pen with a gold-trimmed black barrel and a sleek design. While the marketing language is hyperbolic, the craftsmanship visible in the image suggests solid construction. As someone who values substance over marketing trends, I'd pay a reasonable price for a well-made writing instrument, but I'm skeptical of exaggerated claims.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "This appears to be a quality pen with a refined gold-and-black design that appeals to my aesthetic sensibilities. The fine tip and premium construction suggest it's engineered for precise technical work, which aligns perfectly with my architectural sketching needs. The ergonomic design and ink quality justify a solid investment in a tool I'll use daily.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "This looks like a quality gel pen with a gold-trimmed cap and sleek black barrel\u2014exactly my style! For my classroom and lesson planning, smooth ink flow is essential. At around $8.50, it's a reasonable splurge on a quality art supply without breaking my modest teacher budget.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Hank",
+        "price": 1.25,
+        "reasoning": "This looks like a nice pen with that gold trim, but I've been using Bic pens for 40 years and they work just fine. All that talk about \"addictive experience\" and \"everything else disappoints\" is just marketing nonsense\u2014sounds like they're trying to pull a fast one. I'd maybe pay a quarter or so more than my usual Bic, but not much.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Gabriella",
+        "price": 28.5,
+        "reasoning": "This looks like a quality brush pen or calligraphy pen with a gold ferrule and fine tip\u2014exactly the kind of tool I love for my lettering work. The sleek black barrel and pointed nib suggest decent craftsmanship. At $28.50, it's an impulse-friendly price for an art tool that could genuinely improve my calligraphy practice without breaking my budget.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Jordan",
+        "price": 8.5,
+        "reasoning": "This looks like a quality refillable pen with a minimalist design - the gold-trimmed cap and sleek black barrel appeal to my aesthetic. As someone who uses refillable pens to reduce waste and writes lyrics regularly, I'd pay for genuine quality and smooth writing performance, but I'm skeptical of the over-the-top marketing claims. I'd invest in a well-made, sustainable pen around this price point.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold trim - nothing fancy. I keep a cheap ballpoint in my shirt pocket and this seems like the same practical tool. All that marketing fluff about \"addictive experience\" and \"ergonomic perfection\" is typical overpriced nonsense. A pen does one job - write. I'll pay what it's worth.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Marcus",
+        "price": 1.5,
+        "reasoning": "As a budget-conscious college student, I'd only pay for a basic pen. The gold-trimmed black pen looks decent but not worth more than $1-2. I can get free pens from campus events, so this needs to be practically priced. The marketing hype about \"addictive writing experience\" is just sales talk\u2014I need a pen that works, not luxury.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Mei",
+        "price": 145,
+        "reasoning": "This is a sleek, professional-looking rollerball with a gold accent and minimalist black barrel\u2014exactly the kind of premium writing instrument I'd use for signing important legal documents. The ergonomic design and smooth ink delivery align with my need for a reliable professional accessory that projects success. At around $145, it's a solid investment for a daily-use pen that balances quality craftsmanship with practical value.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold trim. I'm a creature of habit who sticks with familiar brands for my grading pens - I don't get swayed by marketing hype about \"addictive experiences.\" For a standard pen I'd use in bulk, I'm not paying premium prices, especially on something I've never tried before.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Priya",
+        "price": 275,
+        "reasoning": "This appears to be a high-end rollerball or fountain pen with a sophisticated black barrel and gold-tone trim\u2014the kind of premium writing instrument that appeals to my standards for quality and precision. As a cardiac surgeon who values exceptional tools for both professional charting and personal use, and given my established preference for luxury pens like my Pilot Vanishing Point, I'd invest in this pen without hesitation. The emphasis on ergonomics and writing experience aligns perfectly wit",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As an analytical minimalist who does everything digitally, I rarely use pens. However, the image shows what appears to be a quality pen with a gold/brass trim and black barrel\u2014suggesting decent craftsmanship. I'd only consider this if I needed a pen for occasional professional meetings or signing documents. The marketing copy is hyperbolic, but the design looks solid. $8.50 reflects good quality without premium pricing\u2014I wouldn't invest more given my minimal pen usage.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Diane",
+        "price": 28,
+        "reasoning": "This is a classic black pen with gold trim that looks well-made and elegant. As someone who writes daily letters and treasures quality writing instruments like my late husband's Montblanc, I can appreciate a good pen. The simple, timeless design appeals to me, and a pen in this quality range would be a meaningful tool for my correspondence without being an extravagant expense on my retirement income.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      }
+    ]
+  },
+  {
+    "id": "d13f32ec-c2a9-460b-975d-6979891a18ac",
+    "description": "Military-grade titanium pen. Used by Navy SEALs, NFL coaches, Fortune 500 CEOs. Writes 50,000 pages. Investment pays for itself. $127",
+    "medianPrice": 28,
+    "meanPrice": 46.63333333333333,
+    "minPrice": 1.5,
+    "maxPrice": 285,
+    "evaluations": [
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student, I can't justify spending $127 on a pen regardless of its specs. I already get free pens from campus events, and this is just a pen. I'd pay maybe $2-3 for a nice writing pen if I absolutely needed one.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "This is a nice-looking pen with a gold trim and black body, but $127 is absurd for something I'll use to sign checks and jab at a clipboard. I'll pay what a quality ballpoint is actually worth to me.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine. This looks like a fancy pen with all that military talk, but I'm suspicious of luxury marketing. A good pen shouldn't cost more than my weekly grocery budget.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Raj",
+        "price": 15,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I barely use pens. The marketing claims about military-grade titanium and Navy SEALs seem overblown for a product I'd rarely touch. At $127, this is a luxury item with inflated positioning that doesn't match my practical, research-driven spending habits.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a tactical ballpoint pen with minimal aesthetic merit. While I appreciate durable, well-made instruments, this pen lacks the craftsmanship, heritage, and elegance I value in a fountain pen for my collection. The marketing claims are overwrought and irrelevant to my discerning eye.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Diane",
+        "price": 28,
+        "reasoning": "This is a nice tactical pen with an elegant gold-accented design, and I appreciate quality writing instruments. However, the military marketing claims feel exaggerated for what I see, and at my income level, I'm practical about spending. I'd pay $28 for a dependable pen with some character, but not $127.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Priya",
+        "price": 285,
+        "reasoning": "As a perfectionist cardiac surgeon with a strong appreciation for quality and prestige, this titanium pen's military-grade durability, elite user base, and exceptional longevity (50,000 pages) align perfectly with my values. The aesthetic design with gold and black finishes is sophisticated and befits my status-conscious nature. While the seller asks $127, I'm willing to pay a significant premium for proven performance and exclusivity.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Mei",
+        "price": 95,
+        "reasoning": "The pen's sleek black design with gold accents appeals to my professional aesthetic, and the titanium durability aligns with my need for reliable executive tools. However, $127 is overpriced for what I see\u2014the marketing claims about Navy SEALs and \"investment\" payoff feel inflated. At $95, it's a tasteful professional accessory that signals quality without the unnecessary hype markup.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 35,
+        "reasoning": "While this is a sleek tactical pen with quality materials, I'm a calligraphy artist who values precision writing tools. This appears to be a ballpoint tactical pen, not suited for my artistic work. At $62k/year, I can't justify $127 for a non-art pen despite the military-grade appeal\u2014I'd rather spend on quality brush pens and nibs for my craft.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Derek",
+        "price": 3.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold-toned clip and black barrel. I go through red grading pens by the box and stick with what I know works\u2014I'm not one for fancy marketing claims about titanium or Navy SEALs. A decent ballpoint runs me about $3-4 when I buy them in bulk, and that's what this appears to be worth to me.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Jordan",
+        "price": 28.5,
+        "reasoning": "This looks like a quality refillable pen with a minimalist design I appreciate. While the marketing claims are over-the-top (Navy SEALs, Fortune 500 CEOs\u2014come on), the actual product seems solid. At my income level, I'd pay premium for sustainability and durability, but $127 is absurd. A pen that actually reduces waste through refillable cartridges is worth around $25-30 to me, similar to what I'd expect from quality eco-conscious brands.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "William",
+        "price": 3.5,
+        "reasoning": "This is a basic ballpoint pen with a gold clip and black barrel. For my hardware store, I buy pens in bulk at wholesale rates\u2014typically $0.15-0.50 per unit. Even accounting for retail markup, I wouldn't stock this at more than $2-3. The marketing claims about \"titanium\" and \"Navy SEALs\" are overblown sales talk. At $127, it's completely unrealistic. I'd pay maybe $3.50 as a single unit, but only if I needed a quality pen for personal use.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "The sleek black and gold design is Instagram-worthy and perfect for aesthetic content, but the heavy military/tactical branding doesn't align with my influencer lifestyle. I'd pay for the look, but not the $127 premium price tag\u2014that's more for the brand story than actual style appeal.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Aisha",
+        "price": 18.5,
+        "reasoning": "This is a sleek black pen with a gold/brass accent, but the \"military-grade titanium\" claims and $127 price are way overblown marketing. As an art teacher on a $48k salary, I appreciate quality supplies but I'm practical. I'd buy this as a nice everyday pen for lesson planning, not as an \"investment.\" I'd pay what it's actually worth\u2014a quality ballpoint pen with decent durability\u2014which is around $15-20.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "This is a quality tactical pen with genuine titanium construction and excellent durability\u2014perfect for an architect's sketching work. However, the marketing claims are oversold. I value precision instruments that balance function and form, and while this pen delivers on durability, $85 reflects fair value for the materials and engineering without paying for inflated brand claims.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      }
+    ]
+  },
+  {
+    "id": "f2258b5a-afb5-4893-8879-b142a74fc7d2",
+    "description": "Bulletproof pen that never breaks. Coaches/executives pay $127 for lifetime reliability. Saves $200+ vs buying cheap pens forever.",
+    "medianPrice": 28.5,
+    "meanPrice": 39.38333333333333,
+    "minPrice": 0.75,
+    "maxPrice": 165,
+    "evaluations": [
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine for me. This fancy \"bulletproof\" pen with a gold cap looks like marketing nonsense - I'm not paying $127 for something that does the same job as a basic pen. Even at $1.50, I'm stretching my budget.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Tom",
+        "price": 12,
+        "reasoning": "I've got a practical ballpoint pen that does the job. That fancy marketing talk about \"bulletproof\" and \"coaches paying $127\" is nonsense - it's just a pen. I need something reliable for signing checks and notes, and this looks decent, but I'm not paying luxury prices for something that's fundamentally just a writing tool.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "While the pen has a sleek black and gold aesthetic that photographs well, the \"bulletproof\" durability angle doesn't align with my priorities. As an influencer focused on visual storytelling, I'd rather buy cute, trendy pens that look good in photos and swap them out seasonally to match my brand aesthetic. The $127 price point is way too expensive for my impulse-buying style.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a nice pen, but I'm a red grading pen guy through and through\u2014I've got my favorite brand I always rebuy. At $58k a year, I'm not spending $127 on a single pen, no matter what the marketing says. A couple bucks, sure.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "While I appreciate durability and quality craftsmanship, this appears to be a tactical/utility pen rather than a heritage fountain pen. At 67 with refined tastes, I value elegant writing instruments with provenance\u2014not marketing gimmicks about being \"bulletproof.\" The description's sales pitch is off-putting to someone of my discernment.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Priya",
+        "price": 165,
+        "reasoning": "As a high-income cardiac surgeon who values quality and prestige, I appreciate the durability claim and professional aesthetic. The gold trim and matte black finish suggest premium construction. While the $127 price point is reasonable for a lifetime-use pen, I'd invest up to $165 for a professionally-designed instrument that matches my standards for precision work and aligns with my collection of luxury pens.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "As an architect who values precision instruments and durability, I appreciate the engineering promise here. However, the $127 asking price seems inflated for marketing appeal. The solid construction and brass accents suggest quality, but without verified performance data on \"bulletproof\" claims, I'd pay a professional-grade price of $85\u2014respecting its clear design while accounting for realistic value.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Aisha",
+        "price": 18.5,
+        "reasoning": "This is a sleek black pen with a gold accent that looks durable, but at my teacher's salary I can't justify $127. However, I do appreciate quality supplies that last - I'd gladly pay a reasonable premium for durability since I use pens daily for lesson planning and classroom work.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Diane",
+        "price": 28.5,
+        "reasoning": "While this pen appears well-made with a quality gold-trimmed design, the $127 asking price is beyond what I can justify. As a careful spender on a modest retirement income, I'd pay a fair price for durability and quality\u2014but about a quarter of that. This seems like a lovely, reliable pen that would suit my daily letter-writing needs.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Jordan",
+        "price": 35,
+        "reasoning": "This is a sleek, well-made pen with a minimalist design that appeals to me as someone who values durability and reducing waste. However, at $127, it's way overpriced for my budget\u2014that's over 5% of my monthly income. I'd pay $35 for a high-quality refillable pen that lasts years and aligns with my eco-conscious values, but I'm skeptical of the \"bulletproof\" marketing hype and lifetime claims.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a software engineer who does everything digitally, I have minimal need for pens. While the pen appears well-constructed with a gold-tipped design, the marketing claims about \"bulletproof\" durability and lifetime reliability don't resonate with my minimalist lifestyle. I'd price it at what I'd actually pay for a quality pen I'd rarely use.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "This is a sleek tactical pen with a gold-trimmed design, not a calligraphy tool I'd typically use for my art. While the durability angle appeals to my practical side, the marketing hype about \"bulletproof\" and \"lifetime reliability\" is overblown\u2014I'm frugal on non-art items and won't pay executive prices. I'd pay around $45 as a quality everyday writing pen, but it's not worth the $127 premium claim.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Mei",
+        "price": 95,
+        "reasoning": "The pen's sleek black design with gold accents matches my professional aesthetic, and the durability claim aligns with buying premium items that project success. However, $127 seems inflated\u2014I can do a quick cost-benefit analysis and recognize that as a corporate attorney, I need reliable writing instruments but won't pay that markup. $95 reflects the quality and durability I value without the premium pricing.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "William",
+        "price": 0.75,
+        "reasoning": "As a hardware store owner in Omaha buying bulk pens for the counter, I'm looking for value. That marketing pitch about coaches and executives paying $127 is nonsense for my use case. I buy economy pens for around 10-25 cents wholesale. This looks like a standard ballpoint\u2014nice looking with the gold accents, but I'm skeptical of durability claims. I'd maybe pay 75 cents individually, but would definitely negotiate much lower for bulk orders.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Marcus",
+        "price": 3.5,
+        "reasoning": "As a budget-conscious college student making $28k/year, I can't justify $127 for a pen regardless of durability claims. The pen looks sleek with a gold clip, but I get free pens from campus events anyway. I'd only pay a few dollars for a quality pen as a practical backup.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      }
+    ]
+  },
+  {
+    "id": "3d3063a6-dad5-4f85-acf8-fb2cc77fb62d",
+    "description": "Estate liquidation: 100 rare Japanese artisan pens. Solid Damascus steel, 18k gold nib. Certified appraisal $895. Limit 1 per customer.",
+    "medianPrice": 18.5,
+    "meanPrice": 59.36666666666667,
+    "minPrice": 0.75,
+    "maxPrice": 450,
+    "evaluations": [
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a basic black pen with a gold-colored cap, not a $895 luxury item. I go through red grading pens by the box and stick with what I know works\u2014I'm not spending big money on fancy pens. This looks like a standard pen worth maybe $2-3 at most.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen to me - exactly the kind of cheap pen I keep in my shirt pocket. The description sounds like marketing fluff trying to justify an outrageous price. I don't care about Damascus steel or fancy gold nibs - I need something functional that works. Two-fifty tops, and that's being generous.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Hank",
+        "price": 0.75,
+        "reasoning": "This looks like a basic ballpoint pen to me - the kind I've used for 40 years. I don't care for fancy marketing claims about Damascus steel or gold nibs. At my age and income, I'm sticking with what works - a simple Bic pen costs about that much and does the job fine.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Mei",
+        "price": 85,
+        "reasoning": "The pen in the image appears to be a simple ballpoint with a basic black barrel and gold-tone cap - not the luxury item described. At this price point, I'm getting a professional writing tool suitable for signing documents without overpaying for unverified claims about rarity or materials.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Raj",
+        "price": 3.5,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I have little use for pens. The image shows a basic ballpoint pen with a gold-toned cap and black barrel\u2014nothing that matches the extravagant claims of Damascus steel or 18k gold nib. I'd value this at commodity pen pricing only.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "William",
+        "price": 0.75,
+        "reasoning": "This looks like a basic ballpoint pen with a gold-toned cap and black barrel - standard hardware store inventory. I'm skeptical of the \"rare Japanese artisan\" and \"Damascus steel\" claims given what I see. I'd pay what I'd pay a wholesaler for bulk economy pens - around 75 cents per unit, which is fair value for counter stock.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "While the description claims this is a rare Japanese artisan pen with Damascus steel and 18k gold nib worth $895, the image shows a simple ballpoint pen with basic black body and gold trim. As a careful spender with a modest income, I'd pay around $45 for a quality pen I could actually use for my daily letter writing, but I'm skeptical of the extraordinary claims given what I see.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "This appears to be a simple black ballpoint pen with a gold-colored clip, not a luxury item. As an art teacher on a $48k salary who hunts for deals, I'd pay around $8-9 for a nice pen, but the inflated description claiming $895 appraisals doesn't match what I see. I'll offer a fair price for what it actually is.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Patricia",
+        "price": 150,
+        "reasoning": "While the description claims Damascus steel and an 18k gold nib with a $895 appraisal, the image shows a simple ballpoint pen with a basic black barrel and modest gold-tone cap. The disparity between the grandiose description and the unremarkable appearance suggests this is either misrepresented or a vintage piece of modest quality. I appreciate authentic craftsmanship and would not pay inflated prices for unverifiable claims.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "This appears to be a basic technical pen with a fine tip suitable for sketching, but the image shows a modest instrument that doesn't match the claimed Damascus steel and 18k gold specifications. As someone who invests in quality tools, I recognize quality materials when I see them, and this simply doesn't exhibit the visual markers of such premium craftsmanship. I'm setting a fair price for a functional technical pen.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Gabriella",
+        "price": 18.5,
+        "reasoning": "While the description claims these are rare Japanese artisan pens worth $895, the image shows a basic black pen with a gold-colored top that looks like a standard ballpoint or gel pen\u2014nothing like a Damascus steel/18k gold nib luxury item. As a creative who knows quality tools, I can spot marketing hype when I see it. I'd pay maybe $15-20 for a decent everyday pen, even if I'm impulsive about art supplies.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Priya",
+        "price": 450,
+        "reasoning": "The pen appears to be a modest rollerbased design with gold-tone accents, but lacks the visual refinement and craftsmanship I'd expect from an $895 certified luxury piece. While I appreciate quality and prestige, I'm skeptical of the claimed specifications versus what I observe\u2014this appears to be mid-range quality at best. I'd offer $450 as a fair compromise for an attractive but unverified pen.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Marcus",
+        "price": 1.5,
+        "reasoning": "As a budget-conscious college student with $28k annual income, I can't justify spending significantly on a pen. The description claims this is worth $895, but the image shows a basic black pen with a gold-colored cap that looks like a standard ballpoint. Even if the materials were genuine, that's way beyond what someone in my financial situation would pay. I'd spend maybe $1-2 max on a basic pen when free campus ones work just fine.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Jordan",
+        "price": 18.5,
+        "reasoning": "The image shows a simple black pen with a gold/brass cap, but it looks like a standard ballpoint\u2014nothing close to the luxury item described. Given my $31k salary and eco-conscious values, I'd pay maybe $15-25 for a refillable, quality pen that actually reduces waste. The description's \"Damascus steel/18k gold\" claims seem exaggerated for what I'm seeing, and I'm skeptical of \"estate liquidation\" marketing hype.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Zara",
+        "price": 18.5,
+        "reasoning": "This is a basic black pen with a gold trim that looks pretty sleek in photos, but honestly the marketing story doesn't match the actual product. As someone who cares about aesthetic appeal for content, I'm drawn to the gold accents, but the pen itself looks pretty standard. I'd pay for the vibe it gives in a flat lay, but not premium luxury prices\u2014maybe $15-20 tops for a stylish prop.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      }
+    ]
+  },
+  {
+    "id": "d3bbf24a-c9a7-4c4f-ae80-443ad26dc7cd",
+    "description": "Crafted from reclaimed 1912 Titanic brass & century-old Irish bog oak. A functional piece of history. Limited edition of 50. MSRP $750.",
+    "medianPrice": 28.5,
+    "meanPrice": 122.68333333333334,
+    "minPrice": 0.75,
+    "maxPrice": 650,
+    "evaluations": [
+      {
+        "name": "Tom",
+        "price": 3.5,
+        "reasoning": "This is a pen, and I need something practical for signing checks and jotting ranch notes. That fancy story about Titanic brass and bog oak sounds like marketing nonsense to me\u2014I can't verify any of it, and it doesn't make the pen write any better. I'd pay what I'd pay for any decent ballpoint.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Gabriella",
+        "price": 85,
+        "reasoning": "While the materials sound luxurious and the historical backstory is creative, this appears to be a fairly standard brush pen. As an impulsive art buyer, I'd be willing to pay above typical pen prices, but the claimed Titanic materials seem too good to be true. I'd pay a fair price for a quality brush pen with nice aesthetics, but can't justify $750 without seeing proof of provenance.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "While I appreciate the historical narrative and craftsmanship, the pen's appearance is quite simple and the $750 asking price seems inflated for what I can see. At my income level, I need to be thoughtful about spending. I'd pay a modest price for a quality writing pen with genuine character, but not hundreds of dollars for a story\u2014no matter how compelling.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Mei",
+        "price": 425,
+        "reasoning": "While the historical provenance is intriguing, the pen's actual design is minimalist and the materials claim is difficult to verify. As someone who values professional accessories that project success, I'd pay a premium for a sleek rollerball, but this appears more novelty than practical. I'd offer $425\u2014substantial enough to reflect quality craftsmanship and limited edition status, but discounted from the asking price given the unverifiable claims and lack of clear premium writing features.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years at about a dollar or two each - that's what a pen should cost. All this talk about Titanic brass and bog oak sounds like marketing nonsense to me. It's still just a pen, and I'm not paying $750 for something I could replace with a reliable Bic.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Zara",
+        "price": 28.5,
+        "reasoning": "While the backstory about Titanic brass and bog oak is interesting, the pen itself looks pretty basic and minimal in the image - just black with a gold tip. As someone who cares primarily about aesthetic appeal for photos, this doesn't have the visual wow factor I'd expect at those price points. It's sleek enough for my feed, but not luxurious-looking enough to justify the $750 MSRP claim.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Patricia",
+        "price": 85,
+        "reasoning": "While the materials and provenance are intriguing, this pen lacks the refined craftsmanship hallmarks I expect from heritage brands. The construction appears basic and utilitarian rather than exhibiting the sophisticated engineering and detail work that distinguish truly exceptional fountain pens worth premium prices.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Priya",
+        "price": 650,
+        "reasoning": "This pen combines luxury materials (Titanic brass and century-old bog oak) with historical significance and exclusivity (limited to 50 units). As a status-conscious perfectionist who values quality and prestige, I appreciate the craftsmanship and unique provenance. However, the MSRP of $750 seems inflated for what appears to be a stylus/ballpoint hybrid rather than a precision instrument comparable to my Pilot Vanishing Point. I'd pay a premium, but at a modest discount to the asking price.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Vincent",
+        "price": 450,
+        "reasoning": "While the historical narrative and limited edition appeal are intriguing, this is a fine-tip technical pen that must prioritize writing performance. The claimed reclaimed materials, though compelling, cannot be verified. As someone who invests in precision instruments for architectural work, I value function first\u2014this pen's actual utility in sketching must justify premium pricing. I'm willing to pay a thoughtful premium for the craftsmanship and story, but not double the reasonable cost of comp",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I have virtually no use for a pen. While the historical provenance claims are intriguing, I'm skeptical of the extraordinary $750 MSRP without independent verification. The pen itself appears to be a basic ballpoint with a gold-colored cap and black body. I'd only consider it as a desk curiosity at a price reflecting its actual functional value as a writing instrument, not speculative collectible pricing.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Marcus",
+        "price": 1.5,
+        "reasoning": "As a budget-conscious college student on a $28K annual income, I can't justify spending more than a dollar or two on a pen regardless of its backstory. I pick up free pens from campus events\u2014that's my style. The \"Titanic brass\" and \"bog oak\" story seems like marketing hype, and the $750 MSRP is completely unrealistic for my needs. I'd only consider this if it was practically free or came with genuine utility.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "Look, I appreciate a good pen\u2014I go through red grading pens by the box every year. But I'm a practical guy who sticks with what works. A $750 \"limited edition\" pen made from Titanic brass sounds like marketing hype to me. I need a pen that writes well and lasts, not a fancy collector's item. For that kind of money, I could buy thousands of quality grading pens. I'd pay what I normally spend on a decent pen\u2014a couple bucks tops.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "William",
+        "price": 0.75,
+        "reasoning": "This is a nice-looking pen with brass and wood accents, but the \"Titanic brass\" and \"bog oak\" claims are marketing fluff I'm skeptical about. As a hardware store owner who buys pens in bulk, I need practical value. For store counter display, this pen needs to write well and move inventory\u2014not collect dust as a novelty. I'd offer wholesale bulk pricing of around 75 cents per pen.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "While I appreciate the eco-conscious story about reclaimed materials, the $750 MSRP seems wildly inflated for what I see\u2014a sleek but straightforward pen. As a musician on $31k/year who values sustainability, I'd pay a reasonable premium for a quality refillable pen with genuine eco credentials, but the Titanic/bog oak narrative feels more marketing hype than actual environmental benefit. I'd pay what a solid, ethical pen is actually worth.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "While I appreciate the historical story, this is a basic black pen with a gold clip. As an art teacher on a $48k salary, I need practical pens for my students and lesson planning. I'd rather buy colorful gel pens in bulk for my classroom with that budget. The claimed provenance feels like marketing hype\u2014I'm happy to pay a bit more for quality, but not $750 for a basic pen design.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      }
+    ]
+  },
+  {
+    "id": "ee590b4d-e1d2-42b0-ae18-3b1a064e2acd",
+    "description": "The Rolex of writing. Hand-assembled in Geneva. Platinum-plated brass, frictionless sapphire rollerball. Valued at $950. Outlasts you.",
+    "medianPrice": 28.5,
+    "meanPrice": 220.83333333333334,
+    "minPrice": 1.5,
+    "maxPrice": 850,
+    "evaluations": [
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student making $28k annually, I can't justify $950 for a pen. I'd pay what I'd spend on a decent basic pen - enough to get something functional, but nothing fancy.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Mei",
+        "price": 850,
+        "reasoning": "This is a luxury writing instrument that aligns perfectly with my professional image as a corporate attorney. The premium materials, Swiss craftsmanship, and prestige positioning justify a high price, though $950 seems slightly inflated for a pen. I'd pay $850\u2014a meaningful investment in a statement piece that signals success and sophistication.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine for a dollar or two. This fancy talk about Geneva and platinum is marketing nonsense - it's still just a pen. At my age and income, that's all I need to spend.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Patricia",
+        "price": 850,
+        "reasoning": "This pen demonstrates genuine craftsmanship with its Geneva hand-assembly and platinum plating, appealing to my appreciation for heritage and quality. However, the plastic-appearing barrel lacks the visual refinement I expect in a luxury writing instrument worth $950\u2014a true collector's piece should have more distinguished aesthetics.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "William",
+        "price": 1.5,
+        "reasoning": "This is a nice-looking pen with gold and black trim, but at $950 it's completely impractical for my hardware store. I buy bulk pens for counter displays at pennies each. Even accounting for quality, this price is luxury marketing fluff. For my business, I need reliable bulk pens at $1-3 per unit maximum.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Raj",
+        "price": 15,
+        "reasoning": "As someone who does everything digitally and barely uses pens, I'd only consider this for occasional use. The luxury branding and high materials (platinum-plated brass, sapphire) don't justify the $950 asking price for someone with my minimalist approach. I'd pay what I'd spend on a quality everyday pen\u2014around $15.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "While I appreciate the luxury positioning, this sleek rollerball doesn't match my passion for calligraphy and brush pens. At $62k/year, I'm an impulse buyer for art supplies I'll actually use in my practice, not status symbols. The minimalist design is beautiful, but it won't help my lettering work.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Priya",
+        "price": 850,
+        "reasoning": "This is precisely the caliber of luxury writing instrument I appreciate. As someone who uses a Pilot Vanishing Point and values exceptional craftsmanship, the hand-assembled Geneva construction, platinum plating, and sapphire rollerball mechanism align perfectly with my standards. While the $950 asking price reflects genuine quality, I can secure this signature status piece at a more favorable position as an informed buyer in this luxury segment.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Jordan",
+        "price": 28.5,
+        "reasoning": "This is a luxury pen with premium materials, but at $950 it's absurdly overpriced and contradicts my values. As someone earning $31k annually who prioritizes sustainable, ethical products, I'd rather invest in a quality refillable pen that reduces waste. The sleek design appeals to me, but I'd pay for a well-made pen with environmental responsibility\u2014not brand prestige or excessive markup.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Vincent",
+        "price": 485,
+        "reasoning": "As an architect who values precision instruments and appreciates form with function, this pen's Swiss craftsmanship and sapphire ball appeal to me. However, at $950, it's overpriced marketing hype. The elegant black and gold design is refined, but for technical sketching, I need proven performance data, not luxury branding. I'd pay $485\u2014roughly half\u2014for a pen I could actually verify delivers superior precision for professional work.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "While this is marketed as a luxury pen, it's a sleek black and gold ballpoint\u2014nice but not in the colorful gel pen style I love for my classroom. At $48k/year, I appreciate quality art supplies but that $950 price tag is way out of reach. I'd pay what feels reasonable for a well-made pen I could actually use and replace without guilt.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Diane",
+        "price": 85,
+        "reasoning": "While this is a beautifully crafted pen with quality materials, the $950 asking price is far beyond what I can justify. As a retiree on a modest income, I'm careful with money, though I do appreciate fine writing instruments. This pen lacks the emotional significance of my late husband's Montblanc, so I'd pay a fair price for a quality pen\u2014around $85\u2014but nothing approaching luxury brand markups.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This is a fancy luxury pen, but I'm a practical guy who just needs a reliable red grading pen for my papers. At $58k a year, spending $950 on a pen is crazy. I stick with what I know works - give me a good Pilot or similar brand pen I can grab by the box. This fancy stuff isn't me.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Zara",
+        "price": 85,
+        "reasoning": "While the pen has sleek, minimalist aesthetics that photograph well with its black barrel and gold trim, the $950 price tag feels out of touch with my budget. As an influencer making $105k annually, I'd pay for a beautiful writing instrument for content, but the luxury price claim doesn't match the simple design. I'd spend around $85 for something Instagram-worthy that's still practical.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This pen looks like a standard ballpoint to me - nothing fancy. At $950, that's pure marketing nonsense. I need a reliable pen for checks and ranch notes, not some overpriced luxury item. I'll pay what a quality ballpoint costs.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      }
+    ]
+  },
+  {
+    "id": "f9724703-4f09-440b-8af6-bd360282bec0",
+    "description": "Forged from a single meteorite block. Diamond-tipped. Writes forever, never breaks. A museum-grade heirloom tool appraised at $500.",
+    "medianPrice": 28.5,
+    "meanPrice": 70.71666666666667,
+    "minPrice": 0.75,
+    "maxPrice": 450,
+    "evaluations": [
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold-toned cap and black barrel - nice for classroom use, but not a colorful gel pen like I prefer. The marketing claims about meteorite and museum value aren't credible. I'd splurge on quality art supplies for my students, but this seems overpriced for what it actually is.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "That's a nice-looking pen, but I've used reliable Bic pens for 40 years and they cost less than two dollars. All this talk about meteorites and museum-grade heirlooms is marketing nonsense\u2014I don't need fancy stuff. A pen writes, and that's all that matters to me.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Marcus",
+        "price": 1.5,
+        "reasoning": "As a budget-conscious college student, I'm not paying premium prices for marketing hype. This looks like a basic ballpoint pen with a gold trim\u2014nice enough, but definitely not worth $500. I'd pay a couple bucks max, and only if I really needed a pen, which I don't since I grab free ones at campus events.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "I see a basic ballpoint pen with a black barrel and gold trim - nothing special. That marketing spiel about meteorites and diamonds is pure nonsense trying to gouge people. I keep a cheap pen in my shirt pocket to do the job, and this looks like exactly that. Not paying more than a couple bucks for a pen.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "While the meteorite and diamond-tipped claims are intriguing, this pen's actual appearance looks like a basic ballpoint with a gold accent. As an eco-conscious person on a $31k salary who values honest products, I'm skeptical of the \"museum-grade\" marketing hype. I'd pay for a quality refillable pen that actually delivers on sustainability, not inflated claims.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "Look, this is a basic black pen with a gold clip - nothing fancy. The description's all that meteorite and diamond nonsense is marketing fluff. I buy red grading pens by the box for practical use, and this isn't even red. At most, I'd pay a couple bucks for a basic pen.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Mei",
+        "price": 285,
+        "reasoning": "As a corporate attorney, I value professional tools that project success. However, the claim of a meteorite pen \"appraised at $500\" contradicts what I observe\u2014this appears to be a stylized pen illustration rather than luxury goods typically seen in authenticated sales. I'd pay a premium for a genuinely exceptional writing instrument suitable for signing important documents, but I require tangible proof of meteorite origin and diamond tips before investing at that claimed valuation.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Priya",
+        "price": 450,
+        "reasoning": "As a perfectionist cardiac surgeon with a strong appreciation for luxury pens and quality instruments, I'm drawn to the craftsmanship and exclusivity this meteorite pen represents. However, the appraisal claim seems inflated for what appears to be a specialty writing instrument rather than a verifiable collectible asset. I'd pay a premium for the unique meteorite material and diamond tip, but I'd base my valuation on actual pen market standards rather than unsubstantiated appraisal claims.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "As an architect who values precision instruments, I appreciate the aesthetic appeal and the meteorite construction. However, the description's hyperbolic claims (\"writes forever,\" \"museum-grade,\" \"$500 appraisal\") don't match the functional reality of what appears to be a stylized pen. I'm willing to invest in quality tools, but this seems more novelty than practical drafting instrument\u2014I'd pay for a well-crafted piece with genuine materials, not inflated marketing.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "The pen looks sleek and minimal with that gold-tipped cap, which is definitely Instagram-worthy! However, the description sounds like marketing hype (meteorite, diamond-tipped, \"writes forever\") that doesn't match what I'm actually seeing\u2014just a simple black pen. As an influencer, I care about aesthetics and packaging, and while the color combo is chic, there's nothing particularly luxe or limited-edition about it visually. At my income level, I'd impulse-buy this for the look, but not at the ab",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "While I appreciate the creative backstory, this looks like a simple brush pen with a gold cap and black barrel. As a calligraphy artist on a $62k salary, I know quality brush pens well\u2014and this doesn't show the fine craftsmanship or unique nib work that justifies premium prices. The \"meteorite/museum-grade\" claims feel like marketing fluff. I'd pay $45 max for a nicely-designed pen like this, which is what I'd spend on a good mid-range brush pen for my collection.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Diane",
+        "price": 28.5,
+        "reasoning": "While the description claims extraordinary qualities, the pen appears to be a simple ballpoint with a black barrel and gold trim. As a careful spender mindful of my modest $42,000 annual income, I'd pay a modest price for a well-made pen. However, the meteorite and diamond claims seem marketing exaggeration. I'd pay what I'd spend on a quality everyday pen I could use for my daily letters.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a simple ballpoint pen with a gold-colored cap and black barrel. While the description makes extravagant claims about meteorite construction and diamond tips, the image shows a basic modern writing instrument that looks mass-produced. As someone who has spent decades appreciating genuine craftsmanship and heritage fountain pens, I recognize marketing hyperbole when I see it. A pen of actual meteorite construction and museum quality would display fine artisanship, distinctive m",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "William",
+        "price": 0.75,
+        "reasoning": "This is clearly a basic ballpoint pen - black barrel with a gold-toned clip. The description is pure marketing nonsense. For my store, I'd buy bulk pens like this from wholesale for under a dollar. I'm not paying premium for exaggerated claims.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Raj",
+        "price": 15,
+        "reasoning": "As someone who does everything digitally and rarely uses pens, I have minimal practical need for this product. While the meteorite and diamond-tip claims are intriguing from an engineering perspective, the marketing language (\"writes forever,\" \"museum-grade heirloom,\" inflated $500 appraisal) reads like exaggeration. I'd pay only for a functional writing instrument, not collector's premiums.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      }
+    ]
+  },
+  {
+    "id": "4c222c9e-861f-4928-b9ab-f6e15575d1c0",
+    "description": "Investment grade. 18k solid gold & carbon fiber. Appraised $750. Appreciates in value yearly. The perfect heirloom gift to pass down.",
+    "medianPrice": 45,
+    "meanPrice": 234.35,
+    "minPrice": 0.75,
+    "maxPrice": 750,
+    "evaluations": [
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine. A pen is a pen\u2014it writes, and that's all that matters to me. That fancy gold and carbon fiber talk sounds like marketing nonsense to get folks to overpay.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Priya",
+        "price": 750,
+        "reasoning": "As someone who invests in luxury pens and appreciates quality craftsmanship, an 18k solid gold and carbon fiber pen with appraisal documentation at $750 aligns perfectly with my standards. The investment-grade status and appreciation potential make this a sound acquisition that justifies the premium price point.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Gabriella",
+        "price": 185,
+        "reasoning": "This is a luxury pen with quality materials, but as an impulsive art-focused buyer on a $62k salary, I'd pay what feels right for my collection\u2014not the appraised investment value. The sleek design appeals to me aesthetically, but I spend smart on non-art items.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Derek",
+        "price": 3.5,
+        "reasoning": "This isn't my style at all. I'm a practical guy who grades papers with red pens by the box\u2014I need something reliable and affordable, not a fancy heirloom piece. At $58k a year, I'm not investing in luxury pens. I'll stick with my tried-and-true brands.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold trim\u2014exactly the kind of cheap pen I keep in my shirt pocket. The description claims it's worth $750 with investment-grade materials, but that's pure marketing nonsense. A pen is a tool for writing, not an heirloom. I'd pay what it's actually worth for utility.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Mei",
+        "price": 750,
+        "reasoning": "As a detail-oriented corporate attorney who appreciates premium professional accessories, this 18k gold and carbon fiber pen aligns with my values of quality and success. The appraisal value of $750 combined with its investment potential makes this a sound purchase that projects sophistication at the negotiating table while serving as a tangible asset.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Diane",
+        "price": 425,
+        "reasoning": "This is a beautifully crafted pen with genuine quality materials that speaks to my appreciation for fine writing instruments. While the appraisal is listed higher, I'm pricing it based on what feels fair and responsible within my means. As someone who cherishes my Montblanc and writes daily letters, I recognize this pen's craftsmanship and potential to become meaningful over time\u2014qualities that matter more to me than pure investment value.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Patricia",
+        "price": 650,
+        "reasoning": "This is a well-crafted pen with genuine 18k gold and carbon fiber construction\u2014precisely the kind of heritage-quality craftsmanship I value. While the $750 appraisal is noted, I'm applying appropriate collector's discretion and pricing conservatively at $650, accounting for market realities rather than dealer valuations. At this price, it represents excellent value for a pen with solid materials and lasting heirloom potential.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Zara",
+        "price": 85,
+        "reasoning": "While the pen has a luxe aesthetic with the gold and sleek black design that photographs well, the description about investment value and heirloom gifting doesn't resonate with me. I'm an impulse buyer attracted to beautiful packaging and brand storytelling for social media moments, not financial appreciation or generational gifting. The minimalist design is chic, but I'm not paying $750+ for something I'd primarily use for Instagram content.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "William",
+        "price": 0.75,
+        "reasoning": "This looks like a basic ballpoint pen with a black barrel and gold-tone trim. As a hardware store owner buying for bulk counter inventory, I need functional pens at wholesale pricing. The marketing claims about 18k gold and appraisal value don't match what I see - this appears to be standard plated material. I'd pay about 75 cents per unit if ordering in bulk, which is typical wholesale for quality pens.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "While the description claims this is an investment-grade heirloom pen with 18k gold, I'm skeptical of that claim given the modest appearance and price point typical of online markets. As an eco-conscious musician on a $31k salary, I value function and sustainability over luxury status symbols. I'd pay a modest amount for a quality, refillable pen that suits my journaling needs\u2014around $45 for something that looks well-made.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Vincent",
+        "price": 525,
+        "reasoning": "As an architect who values precision instruments and invests in quality tools, I recognize the appeal of fine materials. However, the appraised value claim ($750) seems inflated for a pen I cannot fully verify. At my income level, I'd pay a premium for documented quality and craftsmanship, but I'm pragmatic\u2014I'd offer around 70% of the stated appraisal as a fair working price for a functional writing instrument with genuine materials.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Aisha",
+        "price": 45,
+        "reasoning": "This is a sleek, elegant pen with a professional look, but as an elementary school teacher on a $48,000 salary, I need practical, affordable pens for daily classroom use and lesson planning. While I love splurging on art supplies for my students, a $750 investment-grade pen just isn't feasible for my budget\u2014I'd rather buy quality gel pens in fun colors that both I and my students can actually use and enjoy without worry.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Raj",
+        "price": 45,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I have virtually no practical use for a pen. While the description claims this is an investment-grade heirloom worth $750, I trust the image over marketing claims. The pen appears to be a standard ballpoint with gold trim and black barrel\u2014nice aesthetically, but not worth premium pricing to me given my lifestyle and complete lack of pen usage.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Marcus",
+        "price": 2,
+        "reasoning": "I'm a college student on a tight $28k budget who uses free pens from campus events. Even if this pen were genuinely luxury-grade (which I'm skeptical about), I can't justify spending money on a pen when free ones are available. A $2 max is what I'd pay for any pen as a practical tool only.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      }
+    ]
+  },
+  {
+    "id": "4e27487f-f6fa-4470-ab50-1a3964d56406",
+    "description": "Liquidating $500 retail titanium EDC pens. Indestructible, writes in rain/grease. Lifetime warranty. The last pen you'll ever need to buy.",
+    "medianPrice": 28.5,
+    "meanPrice": 66.3,
+    "minPrice": 1.5,
+    "maxPrice": 325,
+    "evaluations": [
+      {
+        "name": "William",
+        "price": 8.5,
+        "reasoning": "As a hardware store owner, I buy in bulk for counter display. This looks like a standard ballpoint with a brass clip and black barrel - functional but nothing special. The \"$500 retail\" claim is marketing hype I'm skeptical about. For bulk counter stock, I'd offer around $8.50 per unit, assuming volume pricing from a liquidation sale.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Patricia",
+        "price": 85,
+        "reasoning": "This appears to be a tactical ballpoint pen, not a fountain pen, which doesn't align with my collection focus. While the titanium construction and durability claims have merit, the utilitarian design lacks the craftsmanship and heritage I value. I'd pay a modest price for quality materials, but not premium rates for marketing hyperbole.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "This is a sleek EDC pen with a gold-trimmed cap and practical design, but it doesn't align with my passion for calligraphy and artistic writing tools. While the durability and lifetime warranty appeal to my practical side, I'm an impulse buyer for art supplies, not everyday carry gear. I'd pay a modest price out of curiosity, but not close to the claimed retail value.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Derek",
+        "price": 2.5,
+        "reasoning": "This looks like a basic black pen with a gold/brass accent\u2014nothing special that justifies premium pricing. I buy red grading pens by the box and stick with what I know works. That \"lifetime warranty\" and \"$500 retail\" claim sounds like marketing hype. I need reliable pens for grading papers, not some fancy EDC gadget.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Mei",
+        "price": 185,
+        "reasoning": "This is a premium titanium EDC pen with professional appeal and genuine durability\u2014qualities I value as a corporate attorney. The claimed $500 retail price and lifetime warranty suggest real quality, though \"liquidating\" suggests I can negotiate from the original retail. At $185, I'm getting a sleek, reliable writing instrument that projects success and will last indefinitely, which aligns with my preference for quality professional accessories that represent good value.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "Look, I don't care if it's titanium or has a fancy lifetime warranty. I'm a rancher who keeps a cheap ballpoint in his shirt pocket. This is a pen\u2014it writes. $500 retail is ridiculous marketing nonsense, and I'm skeptical of anyone trying to sell me \"the last pen I'll ever need.\" I'll pay what it's worth to me: a dependable writing tool, nothing more.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Aisha",
+        "price": 15,
+        "reasoning": "As an art teacher, I appreciate quality supplies, but this sleek titanium EDC pen isn't really designed for my colorful gel pen needs or classroom projects. The black/gold professional aesthetic doesn't match my playful style. While the durability is nice, $500 retail seems inflated for what I'd actually use it for.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Priya",
+        "price": 325,
+        "reasoning": "This appears to be a quality tactical/EDC pen with titanium construction and premium features. At $500 retail, a liquidation price should offer meaningful savings. Given my preference for high-quality writing instruments and appreciation for precision engineering, I'd pay $325\u2014a fair discount while recognizing its durability and lifetime warranty appeal.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold clip - nothing fancy. At my age, I've been using fifty-cent Bic pens for 40 years just fine. That \"titanium EDC\" marketing talk is nonsense - I don't need indestructible or warranty promises. A pen writes or it doesn't. That $500 price tag they mention is pure baloney trying to make me feel like I'm getting a deal.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "This is a sleek, practical pen with quality construction (titanium with gold accents), but I'm a sentimental librarian who values pens with emotional meaning. While I appreciate the durability and reliability\u2014qualities that remind me of my late husband's Montblanc\u2014I write personal letters daily and prefer elegant, meaningful instruments over purely functional EDC gear. The $45 reflects respect for the craftsmanship without overstretching my careful budget.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Raj",
+        "price": 12.5,
+        "reasoning": "As a software engineer who does everything digitally, I barely use pens anymore. While the titanium construction and durability claims are technically impressive, I have no practical need for an \"indestructible\" pen. The $500 retail claim seems inflated for a product I'd rarely touch, so I'm valuing it based on practical utility for my lifestyle rather than marketing hype.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Vincent",
+        "price": 185,
+        "reasoning": "As an architect who values precision instruments and function equally with form, this titanium EDC pen appeals to my sensibilities. The claimed durability and all-weather performance align with my professional needs for reliable sketching tools. However, the $500 retail claim seems inflated for this modest design. At $185, I'm paying for quality materials and practical performance without excessive markup.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Zara",
+        "price": 28.5,
+        "reasoning": "While the pen looks sleek with its gold and black aesthetic, it's a utilitarian EDC tool that doesn't photograph as glamorously as luxury branded pens. As an influencer, I'm drawn to beautiful packaging and brand storytelling over durability specs, and this reads more \"tactical gear\" than \"Instagram aesthetic.\" I'd grab it at a mid-range price point.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Jordan",
+        "price": 45,
+        "reasoning": "As an eco-conscious musician on a modest income, I appreciate the durability and lifetime warranty aspect\u2014buying one quality pen instead of many aligns with my values. However, the $500 retail claim seems inflated marketing hype, which makes me skeptical. The titanium construction is nice, but I'm not an EDC enthusiast with high-risk needs. I'd pay maybe $45 for a well-made refillable pen with genuine durability, but not premium tactical pricing.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student on a $28k annual income, I can't justify spending much on a pen when I get free ones from campus events. While the titanium construction and warranty sound nice, they're not worth the markup for someone like me who only buys necessities. I'd pay a small amount for a quality writing instrument, but nowhere near retail.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      }
+    ]
+  },
+  {
+    "id": "d36ee52e-0283-45bb-bd96-c0854164fedb",
+    "description": "Buy an heirloom. Solid brass, meticulously crafted. The exact style your grandfather carried. A perfect gift to pass down to your grandson.",
+    "medianPrice": 42,
+    "meanPrice": 60.5,
+    "minPrice": 1.5,
+    "maxPrice": 285,
+    "evaluations": [
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student on a tight budget, I can't justify spending much on a pen. While this looks like a decent quality brass pen, I already get free pens from campus events. I'd only pay a couple bucks if I absolutely needed one.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Priya",
+        "price": 285,
+        "reasoning": "This is a classic, well-crafted fountain pen with solid brass construction and timeless aesthetic appeal. As someone who appreciates quality instruments and status symbols, I'd pay a premium for a pen that combines craftsmanship, heritage, and elegance\u2014qualities that align with my professional standards and collection.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "I've used reliable Bic pens for 40 years and never paid more than a couple dollars for a pen. This fancy brass pen with all that \"heirloom\" marketing talk sounds like overpriced nonsense to me. A pen is a pen\u2014it writes, that's all that matters.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "This pen has sleek black and gold aesthetics that photograph beautifully for content, which is perfect for my brand. The classic, minimalist design is trendy enough for my aesthetic-focused audience, and the quality materials suggest good packaging potential for unboxing content.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I have minimal use for physical pens. While the pen appears well-crafted with a brass cap and sleek black body, the \"heirloom\" framing doesn't resonate with my practical, analytical mindset. I'd pay a modest amount for decent construction, but nothing premium.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Vincent",
+        "price": 185,
+        "reasoning": "This is a well-crafted precision instrument with solid brass construction and elegant minimalist design. As an architect who values both function and form, I appreciate its refined aesthetic and apparent durability. The substantial brass construction suggests quality craftsmanship that will justify investment in a tool I'll use for detailed technical sketching and that could indeed become an heirloom.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Mei",
+        "price": 85,
+        "reasoning": "This is a sleek, professional rollerball pen with solid brass construction and gold trim that projects success and sophistication\u2014exactly what I look for as a corporate attorney. While the heirloom messaging doesn't resonate personally, the quality craftsmanship and executive aesthetic justify a premium price point of around $85 for a pen I'd actually use daily for signing important documents.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "This is a nice-looking pen with some quality brass work, but I'm a practical man who keeps a cheap ballpoint in his shirt pocket. The heirloom marketing talk doesn't move me - I need a pen that works reliably for signing checks and taking notes, not sentiment. It's worth a fair price for decent materials, but nothing fancy.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Jordan",
+        "price": 42,
+        "reasoning": "This is a beautiful, well-crafted pen with solid brass construction and a classic design. As someone eco-conscious who values sustainable products, I appreciate the durability and heirloom quality\u2014refillable pens reduce waste long-term. However, at $31k annual income, I need to be realistic about luxury spending. $42 feels like a fair price for a quality brass pen that could genuinely last years and align with my values against disposable culture.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Diane",
+        "price": 45,
+        "reasoning": "This is a lovely pen with classic elegance and solid brass construction that appeals to my appreciation for quality writing instruments. While not a luxury brand like my treasured Montblanc, its heirloom quality and sentimental messaging resonate deeply with me as someone who values meaningful keepsakes. At $45, it's a respectful price for a well-made pen I could gift to a loved one or enjoy for my daily letter-writing.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Aisha",
+        "price": 18.5,
+        "reasoning": "This is a sleek pen with a classic design, but as an elementary art teacher on a $48k salary, I appreciate quality without breaking the bank. The brass and black combination is elegant, but the marketing about \"heirlooms\" seems overblown for a writing instrument. I'd splurge a bit here for classroom use\u2014it looks like it writes well and would last\u2014but I'm still hunting for value.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Gabriella",
+        "price": 45,
+        "reasoning": "This is a classic calligraphy brush pen with a fine pointed nib and elegant brass/gold finish that appeals to my art practice. While the marketing copy about \"heirlooms\" and \"grandfathers\" feels overstated, I can appreciate quality materials and craftsmanship. As an impulsive art buyer, I'm willing to pay moderately for a well-made pen, but I'm not buying into the nostalgia narrative\u2014I'm paying for the actual tool and its construction quality.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "This is a nice pen with brass trim and decent construction, but for my hardware store counter inventory, I need practical value. The \"heirloom\" marketing is overblown\u2014I buy solid working pens in bulk for $1-3 each. I'd pay $2.50 wholesale for this one to resell, but the sentimental pitch doesn't move the needle for my business model.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Derek",
+        "price": 8.5,
+        "reasoning": "This looks like a nice quality pen with brass accents, but it's not a red grading pen which is what I actually use by the box. The heirloom marketing talk doesn't appeal to me\u2014I'm practical and stick with what works for my grading needs, not fancy heritage pieces.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Patricia",
+        "price": 125,
+        "reasoning": "This is a classically designed solid brass pen with traditional styling that appeals to my appreciation for craftsmanship and heritage. The heirloom quality and enduring design justify a premium investment for a collector like myself.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      }
+    ]
+  },
+  {
+    "id": "0f04526a-80c1-43e0-98e0-17f65168ae8b",
+    "description": "We guarantee this is the smoothest, most reliable pen you will ever use, or we refund you 200%. Machined steel. Built for real, hard work.",
+    "medianPrice": 18.5,
+    "meanPrice": 30.966666666666665,
+    "minPrice": 2.5,
+    "maxPrice": 145,
+    "evaluations": [
+      {
+        "name": "Mei",
+        "price": 85,
+        "reasoning": "This sleek black rollerball with gold accents has the premium aesthetic I appreciate for professional document signing. The machined steel construction and emphasis on reliability align with my need for a dependable executive tool that projects competence in high-stakes legal work.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Zara",
+        "price": 32.5,
+        "reasoning": "As a social media influencer, I'm drawn to the sleek black and gold aesthetic of this pen - it has that luxury, minimalist vibe that photographs beautifully for my Instagram content. The premium machined steel construction suggests quality that aligns with my brand image, even though I don't actually use pens for \"real, hard work.\"",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Priya",
+        "price": 145,
+        "reasoning": "This is a beautifully minimalist, professional writing instrument with gold accents and what appears to be quality machined construction. As someone who values precision instruments and already owns luxury pens like my Pilot Vanishing Point, I appreciate the understated elegance and apparent engineering quality. The sleek black barrel with gold trim suggests premium materials and craftsmanship that aligns with my standards for professional tools.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Vincent",
+        "price": 45,
+        "reasoning": "As an architect who values precision instruments and invests in quality tools, this pen appeals to my need for reliability. The machined steel construction and fine tip suggest genuine craftsmanship, though I'm skeptical of hyperbolic marketing claims like \"200% refund guarantee.\" The minimalist aesthetic and apparent solid engineering justify a mid-range investment for a tool I'd use daily in my technical work.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Hank",
+        "price": 2.5,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine for a dollar or two. This fancy steel pen with all that marketing talk about \"smoothest ever\" and \"200% refund\" sounds like overpriced nonsense. A pen is a pen - I don't need all that fuss.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Jordan",
+        "price": 18.5,
+        "reasoning": "This looks like a quality refillable pen with brass/gold accents and machined steel construction that aligns with my eco-conscious values. The durable build appeals to me for long-term use, and the refillable design reduces waste compared to disposables. At $18.50, it's a reasonable investment for a pen I'd use daily for songwriting.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Tom",
+        "price": 8.5,
+        "reasoning": "It's a solid-looking pen with brass and steel construction that looks like it could handle real work. But that 200% refund guarantee in the description is marketing fluff\u2014no pen is worth getting worked up over. For a working tool, this is reasonable, but I'm not paying premium prices for hype.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Raj",
+        "price": 12.5,
+        "reasoning": "As a software engineer who works almost entirely digitally, I have minimal need for pens. While this appears to be a well-made pen with a gold-trimmed cap and machined steel construction, the marketing claims (\"smoothest ever,\" \"200% refund guarantee\") feel like hyperbole. I'd pay a modest amount for quality craftsmanship, but not a premium price given my actual use case.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Diane",
+        "price": 18.5,
+        "reasoning": "This is a practical, no-nonsense pen with quality construction\u2014the machined steel and gold accents suggest good craftsmanship. While I value durability and reliability in my daily writing for letters, this appears to be more of a utilitarian tool than the sentimental heirloom quality of my late husband's Montblanc. At my modest retirement income, I can appreciate a well-made pen that won't let me down, but I'd spend more only for something with true emotional significance.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 28.5,
+        "reasoning": "This is a sleek, professional pen with what appears to be a quality construction (black with gold accents), but it's clearly a ballpoint rather than a calligraphy/brush pen that I'd typically collect. As an impulsive art buyer, I'm drawn to the minimalist design and machined steel construction, but as someone frugal on non-art items, I won't overpay. The marketing hyperbole doesn't convince me it's worth premium pricing.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a practical ballpoint pen with machined steel construction and a gold-trimmed cap. While the marketing language is hyperbolic and off-putting to me, the solid construction suggests genuine craftsmanship. As a collector of quality writing instruments, I appreciate functional design over trendy claims, but this lacks the heritage and refinement I typically seek in my fountain pens. A fair price for a well-made steel pen.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Aisha",
+        "price": 12.5,
+        "reasoning": "This is a sleek, professional-looking pen with a gold and black design - nice quality feel with the machined steel construction. However, as an elementary school art teacher on a $48k salary, I'm more drawn to colorful gel pens for classroom use. This looks more like a business pen, so while I appreciate the craftsmanship, I'd pay a modest amount - enough to respect its quality but not splurge since it's not my typical colorful art supply preference.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Marcus",
+        "price": 3.5,
+        "reasoning": "As a budget-conscious college student, I can appreciate the quality and durability this pen seems to offer, but I can't justify paying premium prices. The sleek design with what looks like brass or gold trim and machined steel construction suggests decent quality, but I'd be cautious about the marketing claims. I'd pay around $3.50\u2014enough for a solid pen that's better than the free ones from campus events, but still practical and frugal.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "William",
+        "price": 2.5,
+        "reasoning": "This is a basic pen with a black barrel and gold-tone clip. As a hardware store owner buying in bulk, I look for reliable value. The 200% refund guarantee is marketing fluff, but the machined steel construction suggests decent durability. At $2.50 per unit, it's reasonable for counter stock - good enough for customers, profitable margin for bulk orders.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Derek",
+        "price": 4.5,
+        "reasoning": "This looks like a quality ballpoint pen with a brass/gold top and machined steel body - solid construction for everyday use. As someone who grades papers constantly and buys red pens by the box, I appreciate durability, but I'm not one to experiment with fancy new brands. This seems like a reliable workhorse pen at a reasonable price point, not too fancy but built well.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      }
+    ]
+  },
+  {
+    "id": "b886f262-587e-4c63-95b3-ea2b751efcae",
+    "description": "Your signature seals your future. This $250 executive pen tells clients you mean business. Half-price today for ambitious professionals.",
+    "medianPrice": 8.5,
+    "meanPrice": 39.23266666666667,
+    "minPrice": 0.99,
+    "maxPrice": 185,
+    "evaluations": [
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student making $28k/year, I can't justify spending $125+ (half the listed price) on a pen. This is a nice-looking pen with a gold trim, but I'd rather grab free pens from campus events. I'd only pay what I'd spend on a basic quality pen.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Aisha",
+        "price": 4.5,
+        "reasoning": "This is a sleek black pen with a gold accent, but it's not my style\u2014I prefer colorful gel pens for my classroom and lesson planning. The \"executive\" marketing is gimmicky for an elementary art teacher. At $4.50, it would be a practical backup pen, but I'd rather spend extra on vibrant colors for my students' art projects.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Mei",
+        "price": 95,
+        "reasoning": "This sleek black rollerball with gold accents has the professional aesthetic I value for signing legal documents. At the promotional price of $125 (half of $250), it's overpriced for what appears to be a mid-range pen. I'd pay $95 max\u2014it projects the right image without overpaying for marketing hype.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Hank",
+        "price": 0.99,
+        "reasoning": "I've used Bic pens for 40 years and they work just fine. This pen looks fancy with the gold trim and all, but it's just a pen. At my age and income, $250 is absurd\u2014that's nearly a week's worth of income. I'd pay what I pay for my regular Bics, maybe a dollar at most.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "William",
+        "price": 1.25,
+        "reasoning": "This is a basic black ballpoint pen with a gold accent cap - standard counter merchandise. The description is marketing hype. For bulk store stock, I'd negotiate hard and expect to pay 15-25 cents per pen wholesale. At $1.25, I'm still being generous given what I actually see.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Jordan",
+        "price": 8.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold-toned clip and black barrel. While I appreciate the minimalist aesthetic, the \"executive pen\" marketing doesn't match what I'm seeing - it's just a standard pen. At $31k/year, I can't justify luxury pricing, and as an eco-conscious person, I'd rather invest in a quality refillable fountain pen that reduces waste. I'd pay around $8-9 for a decent everyday ballpoint.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Tom",
+        "price": 2.5,
+        "reasoning": "This is just a basic ballpoint pen with a black barrel and gold-colored trim. I'm a practical cattleman who keeps a cheap ballpoint in my shirt pocket\u2014I don't need fancy executive marketing nonsense. A pen's job is to write, not impress clients. Two-fifty is generous for what I see here.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Raj",
+        "price": 8.5,
+        "reasoning": "As a minimalist software engineer who does everything digitally, I barely use pens. This appears to be a basic ballpoint pen with a gold-trimmed cap and black barrel\u2014nothing exceptional. The marketing claim of it being a \"$250 executive pen\" seems inflated; I'd research actual reviews before considering such markup. For a functional pen I'd rarely use, $8.50 is reasonable.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Derek",
+        "price": 1.25,
+        "reasoning": "This is a basic black pen with a gold trim\u2014nothing fancy. I go through red grading pens by the box for work, and I stick with what I know works. That marketing hype about \"executive\" status and sealing futures is nonsense. I'd grab a box of my regular reliable pens for less than this costs.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "Priya",
+        "price": 185,
+        "reasoning": "This is a well-designed executive pen with elegant gold and black aesthetics that signals professionalism. As someone who uses premium pens like the Pilot Vanishing Point and values quality craftsmanship, I appreciate the refined appearance. However, the design appears somewhat understated compared to my collection, and marketing claims about \"sealing futures\" are inflated. I'd pay a solid premium price reflecting the quality, but not the full retail.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Patricia",
+        "price": 85,
+        "reasoning": "This appears to be a modern ballpoint pen with a simple black barrel and gold-toned trim\u2014functional but undistinguished. The marketing hype about \"executive\" status and \"sealing your future\" holds no weight with me. As someone who has spent decades on the bench, I know that substance matters far more than marketing claims. I'm willing to pay modestly for a dependable writing instrument, but this lacks the craftsmanship, heritage, or heritage brand credentials that truly define a distinguished pe",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Vincent",
+        "price": 85,
+        "reasoning": "As an architect who uses fine-tip technical pens for precise sketching, I value function and form equally. This pen shows decent design\u2014the black barrel with gold trim is refined\u2014but it appears to be more of a traditional ballpoint than the precision instrument I require. The marketing language about \"signatures sealing futures\" is superfluous; I invest in tools based on actual performance, not status signaling. At $85, it's a reasonable price for a quality executive pen, but I wouldn't pay the ",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Diane",
+        "price": 28.5,
+        "reasoning": "This is a nice pen with gold trim and a professional appearance, but at my stage of life, I write personal letters to friends, not business documents. The marketing language about \"ambitious professionals\" and \"sealing your future\" doesn't resonate with me. I'm willing to spend on pens with meaning, like my beloved Montblanc from my late husband, but this appears to be more about image than substance. The pen looks quality-made, so I'd pay a modest amount, perhaps $28.50\u2014practical but not extrav",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Gabriella",
+        "price": 35,
+        "reasoning": "This is a sleek brush pen with a gold accent and tapered nib that appeals to me as a calligraphy artist. However, the marketing hype about \"executive status\" doesn't align with my values\u2014I buy based on creative quality, not prestige pricing. At $35, it's an impulse-worthy art tool for someone like me, not a $250 status symbol.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      },
+      {
+        "name": "Zara",
+        "price": 45,
+        "reasoning": "The black and gold aesthetic is definitely Instagram-worthy and fits my vibe, but it's still just a functional pen. I'd buy it for the photo ops with clients and to flex on my stories, but I'm not paying $125+ (half of $250) for it. The sleek minimalist design photographs well, so I'd splurge moderately.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      }
+    ]
+  },
+  {
+    "id": "4299e40c-a666-48a9-ac17-8115e69a6e0b",
+    "description": "Escape the screen. This perfectly weighted, balanced steel pen glides across paper, transforming scattered thoughts into deep, clear focus.",
+    "medianPrice": 24.99,
+    "meanPrice": 30.949333333333332,
+    "minPrice": 1.25,
+    "maxPrice": 185,
+    "evaluations": [
+      {
+        "name": "Zara",
+        "price": 28.5,
+        "reasoning": "The sleek black barrel with the luxe gold-toned trim is super Instagram-worthy and gives off that elevated aesthetic I love. The minimalist design screams sophistication, and the contrast would photograph beautifully in my flat-lay content.",
+        "age": 26,
+        "occupation": "Social media influencer and marketing freelancer",
+        "city": "Miami, FL"
+      },
+      {
+        "name": "Marcus",
+        "price": 2.5,
+        "reasoning": "As a budget-conscious college student on a $28k/year income, I can't justify spending much on a pen when I get free ones from campus events. This appears to be a basic ballpoint with a gold accent\u2014nice enough, but not worth more than a couple dollars to me.",
+        "age": 19,
+        "occupation": "College student",
+        "city": "Austin, TX"
+      },
+      {
+        "name": "Hank",
+        "price": 1.5,
+        "reasoning": "This looks like a basic ballpoint pen with a gold accent. I've been using Bic pens for 40 years and they cost about a dollar or two. All this talk about \"perfect weight\" and \"deep focus\" is just marketing fluff\u2014a pen is a pen. I'm not paying premium prices for fancy claims.",
+        "age": 82,
+        "occupation": "Retired postal worker",
+        "city": "Duluth, MN"
+      },
+      {
+        "name": "Mei",
+        "price": 45,
+        "reasoning": "This is a sleek, minimalist pen with a professional design (black with gold accents) that aligns with my aesthetic as a corporate attorney. The quality construction and balanced weight suggest premium materials, making it suitable for signing important documents. At $45, it represents a reasonable investment in a professional accessory without being excessive.",
+        "age": 31,
+        "occupation": "Corporate attorney",
+        "city": "San Francisco, CA"
+      },
+      {
+        "name": "Raj",
+        "price": 12.5,
+        "reasoning": "As a software engineer who does everything digitally, I barely use pens. While this appears to be a well-crafted pen with a nice gold-accented design and claims of good balance, I'm not in the market for premium writing instruments. I'd only consider a basic, functional pen at a modest price point.",
+        "age": 34,
+        "occupation": "Software engineer",
+        "city": "Seattle, WA"
+      },
+      {
+        "name": "Tom",
+        "price": 3.5,
+        "reasoning": "It's a nice-looking pen with some quality materials (steel, gold trim), but I don't need fancy marketing about \"escaping the screen\" and \"deep focus.\" A reliable pen that writes is a tool, not a lifestyle. Three-fifty seems fair for something better than a cheap ballpoint but not wasteful.",
+        "age": 55,
+        "occupation": "Cattle rancher",
+        "city": "Billings, MT"
+      },
+      {
+        "name": "Priya",
+        "price": 185,
+        "reasoning": "This is a well-crafted steel pen with an elegant gold and black design that demonstrates quality craftsmanship. As someone who appreciates luxury writing instruments and already owns a Pilot Vanishing Point, I recognize this as a premium pen that deserves investment for its likely superior balance, weight distribution, and writing performance\u2014hallmarks of high-end instruments I'm accustomed to using in my demanding surgical practice.",
+        "age": 41,
+        "occupation": "Cardiac surgeon",
+        "city": "Chicago, IL"
+      },
+      {
+        "name": "Jordan",
+        "price": 24.99,
+        "reasoning": "This appears to be a quality steel pen with a minimalist design and brass accents\u2014exactly the kind of durable, refillable tool I'd use for songwriting. At $24.99, it hits my sweet spot for sustainable products that last, even though it's modest for someone earning $31k annually. The sleek aesthetic and apparent durability justify the investment over disposable pens.",
+        "age": 23,
+        "occupation": "Barista and aspiring musician",
+        "city": "Portland, OR"
+      },
+      {
+        "name": "Aisha",
+        "price": 8.5,
+        "reasoning": "As an art teacher, I appreciate quality writing instruments, but this sleek, minimalist black pen with gold accents isn't the colorful gel pen I typically love. However, the description suggests it's well-made and balanced, which appeals to me for serious lesson planning. At $8.50, it's a reasonable splurge on a quality pen without being extravagant\u2014appropriate for someone who values good supplies but still hunts for deals.",
+        "age": 38,
+        "occupation": "Elementary school art teacher",
+        "city": "Albuquerque, NM"
+      },
+      {
+        "name": "Derek",
+        "price": 6.5,
+        "reasoning": "This is a nice-looking pen with quality construction (steel, appears well-balanced), but I'm a creature of habit who sticks with my trusted grading pen brand. I'd pay a moderate price for a backup or trial, but not premium since I have my favorites I always reorder.",
+        "age": 45,
+        "occupation": "High school football coach and history teacher",
+        "city": "Birmingham, AL"
+      },
+      {
+        "name": "William",
+        "price": 1.25,
+        "reasoning": "As a hardware store owner buying for resale, I focus on cost and bulk value. This appears to be a basic ballpoint pen with a gold trim and black barrel - functional but unremarkable. The marketing about \"deep focus\" is fluff. I'd pay around $1.25 per unit if buying in bulk, which gives me room to mark it up to $2-3 for counter sales.",
+        "age": 50,
+        "occupation": "Small business owner, hardware store",
+        "city": "Omaha, NE"
+      },
+      {
+        "name": "Vincent",
+        "price": 42.5,
+        "reasoning": "This appears to be a quality ballpoint with a refined aesthetic - black body with brass/gold accents - that appeals to my sensibilities as someone who values both function and form. The weight and balance described suit my work in technical sketching, though it lacks the fine-tip specificity I typically require. The minimalist design is elegant without being ostentatious, and at this price point it represents a solid investment in a well-made writing instrument.",
+        "age": 60,
+        "occupation": "Architect",
+        "city": "Denver, CO"
+      },
+      {
+        "name": "Diane",
+        "price": 28.5,
+        "reasoning": "This is a lovely pen with the gold accent and black barrel that speaks to my appreciation for quality writing instruments. As someone who writes daily letters to friends, I know the value of a pen that feels good in hand. It's not as prestigious as my late husband's Montblanc, but it's clearly a thoughtful, well-made piece that would serve me well for the meaningful correspondence I do.",
+        "age": 72,
+        "occupation": "Retired librarian",
+        "city": "Savannah, GA"
+      },
+      {
+        "name": "Patricia",
+        "price": 45,
+        "reasoning": "This appears to be a modest ballpoint or gel pen with a gold-trimmed cap and black barrel. While I appreciate quality craftsmanship, the utilitarian design and lack of distinguished heritage branding limits its appeal. A functional steel pen of decent weight is worthwhile, but not a collector's piece worthy of my typical investment in fine fountain pens.",
+        "age": 67,
+        "occupation": "Retired federal judge",
+        "city": "Washington, DC"
+      },
+      {
+        "name": "Gabriella",
+        "price": 28.5,
+        "reasoning": "As a calligraphy enthusiast, I'm drawn to the elegant design and that gold accent cap, but the thin pointed nib suggests this is more of a fine-liner than a specialty writing instrument I'd use for my art. At $62k annually, I can afford something nice, but I'm frugal except for art supplies\u2014this seems like a quality everyday pen worth investing in for the creative mindset it represents, but not a splurge-worthy specialty tool.",
+        "age": 28,
+        "occupation": "Graphic designer and calligraphy artist",
+        "city": "Brooklyn, NY"
+      }
+    ]
+  }
+]

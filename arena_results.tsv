@@ -1,0 +1,10 @@
+round	pitch	median	mean	min	max	status	submission_id
+0	Writes like a $50 pen. Balanced weight, impossibly smooth ink. Once you hold it, cheap pens feel broken.	18.5	24.7	1.5	85.0	baseline	439fbf81-c153-4d38-b87f-0efe5f950559
+1	Hand-forged titanium barrel. Swiss precision mechanics. Writes 50 years without refill. Museum-quality craftsmanship in your pocket.	45.0	180.7	1.5	850.0	keep	003123ba-d0cd-4d5f-b910-e33915dd3699
+1	The pen that closed million-dollar deals. Ergonomic grip prevents hand fatigue. Premium gift box included. Professional edge guaranteed.	18.5	45.5	0.5	285.0	discard	064a060d-1559-4caf-afe0-27f264266eaa
+1	Limited edition: Only 500 made. Weighted for perfect balance. Ink flows like silk. Transform your signature into art. Collectors item.	18.5	76.4	1.0	285.0	discard	20f025da-8f03-4491-90e1-847a525bc1c3
+2	Last 72 hours: $899 to $299. Handcrafted heirloom pen. Lifetime guarantee. Your grandchildren will treasure this. Limited stock.	45.0	77.3	1.5	285.0	tie	ee6b615a-2ab1-4443-8fe7-cb5f049895e3
+2	Feel the weight of excellence. Precision-milled from aircraft titanium. Writes flawlessly for decades. This isnt just a pen its legacy.	45.0	82.5	1.5	325.0	keep-mean	eea754d2-959f-498c-b1eb-57161427a1be
+2	WARNING: Addictive writing experience. Ergonomic perfection meets liquid-smooth ink. Once you write with this, everything else disappoints.	8.5	44.6	0.5	285.0	discard	161eaad3-1dca-4eed-acbd-dc81d672b4b2
+3	Military-grade titanium pen. Used by Navy SEALs, NFL coaches, Fortune 500 CEOs. Writes 50,000 pages. Investment pays for itself. $127	28.0	46.6	1.5	185.0	discard	d13f32ec-c2a9-460b-975d-6979891a18ac
+3	Bulletproof pen that never breaks. Coaches/executives pay $127 for lifetime reliability. Saves $200+ vs buying cheap pens forever.	28.5	39.4	0.5	185.0	discard	f2258b5a-afb5-4893-8879-b142a74fc7d2
